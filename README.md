@@ -4,3 +4,5 @@
 [![StuffzEZ's Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StuffzEZ&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 Here Are My Stats For 2024 ^^^^
+<br>
+[![stuffzez.github.io](https://github-readme-stats.vercel.app/api/pin/?username=StuffzEZ&repo=stuffzez.github.io&theme=radical)](https://stuffzez.github.io?act=lweb-2)
