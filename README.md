@@ -1,5 +1,5 @@
 # Hi! I'm StuffzEZ!
-<div align="center">
+<div style="text-align: center;">
   [![StuffzEZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=StuffzEZ&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
