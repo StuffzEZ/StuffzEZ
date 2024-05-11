@@ -1,6 +1,6 @@
 # Hi! I'm StuffzEZ
 
-## I Am Learning...
+## Featured Projects
 
 <table>
   <td>
@@ -12,5 +12,13 @@
         stuffzez.github.io
       </a>
     </p>
+  </td>
+  <td>
+    <a href="https://github.com/StuffzEZ/StuffzEZ">
+      <br>
+        <img src="https://stuffzez.github.io/library/images/stuffzezlogo.png" alt="StuffzEZ Github Profile Logo" height="50">
+      <br>
+      StuffzEZ README.md Repository
+    </a>
   </td>
 </table>
