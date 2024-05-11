@@ -19,7 +19,7 @@
       <br>
         <img src="https://stuffzez.github.io/library/images/stuffzezlogo.png" alt="StuffzEZ Github Profile Logo" height="50" style="float: right;">
       <br>
-      StuffzEZ
+      StuffzEZ Profile
     </a>
     </p>
       </td>
