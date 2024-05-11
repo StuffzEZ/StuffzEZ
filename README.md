@@ -13,7 +13,7 @@
       </a>
     </p>
   </td>
-  <td width="100">
+  <td width="300" height="275">
     <a href="https://github.com/StuffzEZ/StuffzEZ">
       <br>
         <img src="https://stuffzez.github.io/library/images/stuffzezlogo.png" alt="StuffzEZ Github Profile Logo" height="50">
