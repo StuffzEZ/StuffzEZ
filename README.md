@@ -13,12 +13,12 @@
       </a>
     </p>
   </td>
-  <td>
+  <td width="75">
     <a href="https://github.com/StuffzEZ/StuffzEZ">
       <br>
         <img src="https://stuffzez.github.io/library/images/stuffzezlogo.png" alt="StuffzEZ Github Profile Logo" height="50">
       <br>
-      StuffzEZ
+      StuffzEZ README.md Repository
     </a>
   </td>
 </table>
