@@ -24,3 +24,12 @@
     </p>
       </td>
 </table>
+
+## I Am Learning
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Lua
+- Markdown
