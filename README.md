@@ -25,7 +25,7 @@
       </td>
 </table>
 
-## I Am Learning/I Have Learn
+## I Am Learning/I Have Learnt
 
 - HTML
 - CSS
