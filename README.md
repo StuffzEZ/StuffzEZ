@@ -25,11 +25,12 @@
       </td>
 </table>
 
-## I Am Learning/I Have Learnt
+## I Know...
 
-- HTML
-- CSS
-- JavaScript
+- HTML & CSS
+- Lua¹
 - Python
-- Lua
-- Markdown
+- JavaScript²
+
+¹ (Roblox Studio Programming Language)
+² (Only Basic If Functions)
