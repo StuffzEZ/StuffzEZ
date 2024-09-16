@@ -25,6 +25,12 @@
       </td>
 </table>
 
+## RedOptionStudios
+RedOptionStudios Is My Games Group On https://roblox.com. We Make Games³. You Can Support Us By Joining Our Group On <a href="https://roblox.com/groups/16859738">https://roblox.com</a>. You Can Also View Some Of Our Projects On Our GitHub.
+
+## YouTube
+Have A Look At My YouTube <a href="https://youtube.com/@YT.StuffzEZ">Here</a>. Or Any Of The Other Channels.
+
 ## I Know...
 
 - HTML & CSS
@@ -34,3 +40,4 @@
 
 ¹ (Roblox Studio Programming Language)
 ² (Only Basic If Functions)
+³ (The Games Are Not The Best Games Ever)
