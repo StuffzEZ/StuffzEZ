@@ -15,11 +15,21 @@
   </td>
   <td width="150">
     <p align="center">
-          <a href="https://github.com/StuffzEZ/StuffzEZ">
+          <a href="https://github.com/StuffzEZ/docsblog">
       <br>
-        <img src="https://stuffzez.github.io/library/images/stuffzezlogo.png" alt="StuffzEZ Github Profile Logo" height="50" style="float: right;">
+        <img src="https://stuffzez.github.io/library/images/stuffzezlogo.png" alt="StuffzEZ Github DocsBlog Logo" height="50" style="float: right;">
       <br>
-      StuffzEZ Profile
+      StuffzEZ DocsBlog
+    </a>
+    </p>
+      </td>
+    <td width="150">
+    <p align="center">
+          <a href="https://github.com/StuffzEZ/">
+      <br>
+        <img src="https://stuffzez.github.io/library/images/stuffzezlogo.png" alt="StuffzEZ Github DocsBlog Logo" height="50" style="float: right;">
+      <br>
+      StuffzEZ DocsBlog
     </a>
     </p>
       </td>
