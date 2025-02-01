@@ -2,8 +2,6 @@
 
 ## Featured Projects
 
-[Email Me](mailto:stuffzez+2g8sa-contact@googlegroups.com)
-
 <table>
   <td>
     <p align="center">
@@ -39,6 +37,11 @@ Have A Look At My YouTube <a href="https://youtube.com/@YT.StuffzEZ">Here</a>. O
 - Lua¹
 - Python
 - JavaScript²
+
+## Contact
+[RedOptionStudios Email](mailto:redoptionstudios+dhg328-contact@googlegroups.com)
+[My Email](mailto:stuffzez+2g8sa-contact@googlegroups.com)
+These Emails Are Not Associated With Any Accounts. These Are Public Emails. They Are Not My Personal/Private Emails.
 
 ¹ (Roblox Studio Programming Language)
 ² (Only Basic If Functions)
