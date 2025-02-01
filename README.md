@@ -39,8 +39,8 @@ Have A Look At My YouTube <a href="https://youtube.com/@YT.StuffzEZ">Here</a>. O
 - JavaScript²
 
 ## Contact
-[RedOptionStudios Email](mailto:redoptionstudios+dhg328-contact@googlegroups.com)
-[My Email](mailto:stuffzez+2g8sa-contact@googlegroups.com)
+[RedOptionStudios Email](mailto:redoptionstudios+dhg328-contact@googlegroups.com)<br>
+[My Email](mailto:stuffzez+2g8sa-contact@googlegroups.com)<br>
 These Emails Are Not Associated With Any Accounts. These Are Public Emails. They Are Not My Personal/Private Emails.
 
 ¹ (Roblox Studio Programming Language)
