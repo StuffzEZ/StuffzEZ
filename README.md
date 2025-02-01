@@ -2,6 +2,8 @@
 
 ## Featured Projects
 
+[Email Me](mailto:stuffzez+2g8sa-contact@googlegroups.com)
+
 <table>
   <td>
     <p align="center">
