@@ -5,7 +5,7 @@
 <table>
   <td>
     <p align="center">
-      <a href="https://stuffzez.github.io?act=lweb-2">
+      <a href="https://stuffzez.github.io/repo">
         <br>
           <img src="https://stuffzez.github.io/library/images/stuffzezlogo.png" alt="StuffzEZ Github Website Logo" height="50" style="float: right;">
         <br>
@@ -15,7 +15,7 @@
   </td>
   <td width="150">
     <p align="center">
-          <a href="https://github.com/StuffzEZ/docsblog">
+          <a href="https://stuffzez.github.io/repo/DocsBlog">
       <br>
         <img src="https://stuffzez.github.io/library/images/stuffzezlogo.png" alt="StuffzEZ Github DocsBlog Logo" height="50" style="float: right;">
       <br>
@@ -33,6 +33,16 @@
     </a>
     </p>
       </td>
+  <td>
+    <p align="center">
+      <a href="https://stuffzez.github.io/repo/scripts">
+        <br>
+          <img src="https://stuffzez.github.io/library/images/stuffzezlogo.png" alt="StuffzEZ Github Website Logo" height="50" style="float: right;">
+        <br>
+      My Scripts
+      </a>
+    </p>
+  </td>
 </table>
 
 ## RedOptionStudios
