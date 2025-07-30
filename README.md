@@ -21,3 +21,14 @@ I also make games.. Sometimes!
 <br><br>
 More stuff coming to this description soon.. Hopefully!
 oh also im BRI'ISH <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/da4d1d4c-9d06-4cf6-a0bc-87e5680f3120" />
+
+## Lanuages
+|                   | Python | JavaScript | React JS | HTML | C# | C++ |           Git (CLI)           | Linux CLI |
+|:-----------------:|:------:|:----------:|:--------:|:----:|:--:|:---:|:-----------------------------:|:---------:|
+| Learning          |    ✅   |      ✅     |          |      |    |     |                               |     ✅     |
+| Learnt            |        |            |          |      |    |     |                               |           |
+| Planning To Learn |        |            |     ✅    |      |  ✅ |  ✅  | ✅ (But I don't really use it) |           |
+| Not Learning      |        |            |          |      |    |     |                               |           |
+| Mostly Learnt     |        |            |          |   ✅  |    |     |                               |     ✅     |
+
+Ohhhh you want actual languages... umm i know english and im learning german
