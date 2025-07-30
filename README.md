@@ -2,7 +2,7 @@
 [![Discord](https://img.shields.io/discord/1391398661950410823?label=Discord%20(OptionallyBlueStudios)&logo=discord&style=flat-rounded)](https://optb.short.gy/discord)
 [![YouTube](https://img.shields.io/badge/YouTube%20(StuffzEZ)-Subscribe-red?logo=youtube&style=flat-rounded)](https://www.youtube.com/@YT.StuffzEZ?sub_confirmation=1)
 [![GitHub](https://img.shields.io/badge/GitHub-You're%20Already%20Here!-181717?logo=github&style=flat-rounded)](https://github.com/OptionallyBlueStudios)
-[![Email](https://img.shields.io/badge/email-stuffzez@googlegroups.com-blue?style=flat&logo=gmail&logoColor=white&rounded=true)](mailto:stuffzez+2g8sa-contact@googlegroups.com)
+[![Email](https://img.shields.io/badge/email-stuffzez@googlegroups.com-blue?style=flat&logo=gmail&logoColor=white&rounded=true)](mailto:stuffzez+2g8sa-contact@googlegroups.com)/[![Email2](https://img.shields.io/badge/email-stf_yz@yahoo.com-blue?style=flat&logo=gmail&logoColor=white&rounded=true)](mailto:email-stf_yz@yahoo.com)
 
 ## Hi there 👋
 
