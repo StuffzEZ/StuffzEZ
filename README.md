@@ -23,12 +23,14 @@ More stuff coming to this description soon.. Hopefully!
 oh also im BRI'ISH <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/da4d1d4c-9d06-4cf6-a0bc-87e5680f3120" />
 
 ## Lanuages
-|                   | Python | JavaScript | React JS | HTML | C# | C++ |           Git (CLI)           | Linux CLI |
-|:-----------------:|:------:|:----------:|:--------:|:----:|:--:|:---:|:-----------------------------:|:---------:|
-| Learning          |    ✅   |      ✅     |          |      |    |     |                               |     ✅     |
-| Learnt            |        |            |          |      |    |     |                               |           |
-| Planning To Learn |        |            |     ✅    |      |  ✅ |  ✅  | ✅ (But I don't really use it) |           |
-| Not Learning      |        |            |          |      |    |     |                               |           |
-| Mostly Learnt     |        |            |          |   ✅  |    |     |                               |     ✅     |
+|                   | Python | JavaScript | React JS | HTML |  C# | C++ | Git (CLI) | Linux CLI | Lua |
+| :---------------: | :----: | :--------: | :------: | :--: | :-: | :-: | :-------: | :-------: | :-: |
+|      Learning     |    ✅   |      ✅     |          |      |     |     |           |     ✅     |  ✅  |
+|       Learnt      |        |            |          |      |     |     |           |           |  ✅  |
+| Planning To Learn |        |            |     ✅    |      |  ✅  |  ✅  |     ✅     |           |  ✅  |
+|    Not Learning   |        |            |          |      |     |     |           |           |     |
+|   Mostly Learnt   |        |            |          |   ✅  |     |     |           |     ✅     |     |
 
-Ohhhh you want actual languages... umm i know english and im learning german
+
+Ohhhh you want actual languages... umm i know english and im learning german<br>
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=34f2399bfd44b7df1afb02d27ac3b9e4&theme=dark)](https://gist.github.com/StuffzEZ/34f2399bfd44b7df1afb02d27ac3b9e4)[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=d1786f19a86f5f27cda4f3ec1c76650b&theme=dark)](https://gist.github.com/StuffzEZ/d1786f19a86f5f27cda4f3ec1c76650b)[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ed66209637fa0cb93a8d799300b77fc4&theme=dark)](https://gist.github.com/StuffzEZ/ed66209637fa0cb93a8d799300b77fc4)[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=e8e38bffc9179ad234aa47fe75e7f5c0&theme=dark)](https://gist.github.com/StuffzEZ/e8e38bffc9179ad234aa47fe75e7f5c0)
