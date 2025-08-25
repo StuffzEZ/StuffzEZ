@@ -19,9 +19,8 @@
 Hi! I am StuffzEZ.. I like computers...
 I also make games.. Sometimes!
 <br><br>
-More stuff coming to this description soon.. Hopefully!
-oh also im BRI'ISH <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/da4d1d4c-9d06-4cf6-a0bc-87e5680f3120" />
-
+More stuff coming to this description soon.. Hopefully!<br>
+Don't ask about how many orgs I own on github.. Its a lot (i make like a new project every day).
 ## Lanuages
 |                   | Python | JavaScript | React JS | HTML |  C# | C++ | Git (CLI) | Linux CLI | Lua |
 | :---------------: | :----: | :--------: | :------: | :--: | :-: | :-: | :-------: | :-------: | :-: |
