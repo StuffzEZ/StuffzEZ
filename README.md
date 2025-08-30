@@ -1,10 +1,24 @@
-<a href="#" onclick="alert('Why are you clicking.. This does nothing... But credits to LuciNyan/pixel-profile For This!')"><img src="https://pixel-profile.vercel.app/api/github-stats?username=StuffzEZ&theme=road_trip&pixelate_avatar=false"></a>
 [![Discord](https://img.shields.io/discord/1391398661950410823?label=Discord%20(OptionallyBlueStudios)&logo=discord&style=flat-rounded)](https://optb.short.gy/discord)
 [![YouTube](https://img.shields.io/badge/YouTube%20(StuffzEZ)-Subscribe-red?logo=youtube&style=flat-rounded)](https://www.youtube.com/@YT.StuffzEZ?sub_confirmation=1)
 [![GitHub](https://img.shields.io/badge/GitHub-You're%20Already%20Here!-181717?logo=github&style=flat-rounded)](https://github.com/OptionallyBlueStudios)
 [![Email](https://img.shields.io/badge/email-stuffzez@googlegroups.com-blue?style=flat&logo=gmail&logoColor=white&rounded=true)](mailto:stuffzez+2g8sa-contact@googlegroups.com)/[![Email2](https://img.shields.io/badge/email-stf_yz@yahoo.com-blue?style=flat&logo=gmail&logoColor=white&rounded=true)](mailto:email-stf_yz@yahoo.com)
+# Hi, i'm StuffzEZ (Stuf_y)!
+A Developer That Makes A Project Bascially Every Day :)
 
-## Hi there 👋
+## I am the developer/owner of..
+> [!TIP]
+> This information changes quickly!
+- [[NEW] Retbro](https://retbro.optb.qzz.io)
+- [[GAME] S.C.A.N.](https://optionallybluestudios.github.io/projects/scan) | Co-Owner, Lead Developer
+- [[GAME] Deltarune: Discarded](https://optionallybluestudios.github.io/projects/discarded) | Co-Developer, Not Owner
+- [[APP] BlueHub](https://optionallybluestudios.github.io/projects/bluehub-repo/)
+- [[PROXY] UnWall](https://unwall-proxy.github.io/)
+> [!IMPORTANT]
+> UnWall Proxy Is Currently Not Up At It's Usual Link. Please go to [this site](http://optionallyblue.duckdns.org:5020/)
+- [[ORG] ProsperBrowse](https://github.com/ProsperBrowse)
+- [[ORG] OptionallyBlueStudios](https://github.com/OptionallyBlueStudios)
+> [!TIP]
+> To view all projects, have a look at my repositories, OptionallyBlueStudios' repositories, The [OptionallyBlueStudios Website](https://optionallybluestudios.github.io/) or my org's repositories
 
 <!--
 
