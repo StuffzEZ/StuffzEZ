@@ -1,5 +1,4 @@
-> [!NOTE]
-> Releasing new project soon... A new app store for any device (except android bc it lacks features that I need for it)
+
 
 [![Discord](https://img.shields.io/discord/1391398661950410823?label=Discord%20(OptionallyBlueStudios)&logo=discord&style=flat-rounded)](https://optb.short.gy/discord)
 [![YouTube](https://img.shields.io/badge/YouTube%20(StuffzEZ)-Subscribe-red?logo=youtube&style=flat-rounded)](https://www.youtube.com/@YT.StuffzEZ?sub_confirmation=1)
@@ -8,20 +7,7 @@
 # Hi, i'm StuffzEZ (Stuf_y)!
 A Developer That Makes A Project Bascially Every Day :)
 
-## I am the developer/owner of..
-> [!TIP]
-> This information changes quickly!
-- [[NEW] Retbro](https://retbro.optb.qzz.io)
-- [[GAME] S.C.A.N.](https://optionallybluestudios.github.io/projects/scan) | Co-Owner, Lead Developer
-- [[GAME] Deltarune: Discarded](https://optionallybluestudios.github.io/projects/discarded) | Co-Developer, Not Owner
-- [[APP] BlueHub](https://optionallybluestudios.github.io/projects/bluehub-repo/)
-- [[PROXY] UnWall](https://unwall-proxy.github.io/)
-> [!IMPORTANT]
-> UnWall Proxy Is Currently Not Up At It's Usual Link. Please go to [this site](http://optionallyblue.duckdns.org:5020/)
-- [[ORG] ProsperBrowse](https://github.com/ProsperBrowse)
-- [[ORG] OptionallyBlueStudios](https://github.com/OptionallyBlueStudios)
-> [!TIP]
-> To view all projects, have a look at my repositories, OptionallyBlueStudios' repositories, The [OptionallyBlueStudios Website](https://optionallybluestudios.github.io/) or my org's repositories
+### I am currently making Sifzz- a programming language inspire by Skript, the minecraft plugin.
 
 <!--
 
