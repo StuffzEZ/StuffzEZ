@@ -7,7 +7,7 @@
 # Hi, i'm StuffzEZ (Stuf_y)!
 A Developer That Makes A Project Bascially Every Day :)
 
-### I am currently making Sifzz- a programming language inspire by Skript, the minecraft plugin.
+### NEW HALLOWEEN PROJECT - [HALLOWEEFI](https://github.com/StuffzEZ/halloweefi)
 
 <!--
 
