@@ -20,6 +20,16 @@ I also make games.. Sometimes!
 <br><br>
 Pls dont judge me if you see any of my code is AI- im trying to fix that right now; quite a bit of the time I really want to make something that does something but I don't have the time!!
 
+## Projects
+<!-- PROJECTS START -->
+<!-- PROJECTS END -->
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=34f2399bfd44b7df1afb02d27ac3b9e4&theme=dark)](https://gist.github.com/StuffzEZ/34f2399bfd44b7df1afb02d27ac3b9e4)[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=d1786f19a86f5f27cda4f3ec1c76650b&theme=dark)](https://gist.github.com/StuffzEZ/d1786f19a86f5f27cda4f3ec1c76650b)[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ed66209637fa0cb93a8d799300b77fc4&theme=dark)](https://gist.github.com/StuffzEZ/ed66209637fa0cb93a8d799300b77fc4)[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=e8e38bffc9179ad234aa47fe75e7f5c0&theme=dark)](https://gist.github.com/StuffzEZ/e8e38bffc9179ad234aa47fe75e7f5c0)
+## Organizations
+<!-- ORGS START -->
+<!-- ORGS END -->
+
+## Open Issues
+<!-- ISSUES START -->
+<!-- ISSUES END -->
+
 ![MyStats](https://github-readme-stats.vercel.app/api?username=stuffzez&show_icons=true&theme=dark&hide=stars,prs,issues,commits,contribs&show_rank=true&hide_title=true)![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffzez&layout=compact&theme=dark)
