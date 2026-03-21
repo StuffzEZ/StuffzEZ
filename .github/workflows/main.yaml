@@ -1,0 +1,85 @@
+name: Update GitHub Stats in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install axios dayjs
+
+      - name: Update README with stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node -e "
+          const fs = require('fs');
+          const axios = require('axios');
+          const dayjs = require('dayjs');
+
+          const username = process.env.GITHUB_ACTOR;
+          const readmePath = 'README.md';
+          const headers = { Authorization: `token ${process.env.GITHUB_TOKEN}` };
+
+          async function fetchStats() {
+            // Fetch repos
+            const reposRes = await axios.get(`https://api.github.com/users/${username}/repos?sort=updated&per_page=5`, { headers });
+            const repos = reposRes.data.map(r => `| [${r.name}](${r.html_url}) | ${r.stargazers_count} ⭐ | ${r.forks_count} 🍴 | ${r.language || '-'} | ${dayjs(r.updated_at).format('YYYY-MM-DD')} |`).join('\n');
+
+            const reposTable = `
+<!-- PROJECTS START -->
+| Project | Stars | Forks | Language | Last Updated |
+|--------|-------|-------|----------|--------------|
+${repos}
+<!-- PROJECTS END -->
+`;
+
+            // Fetch organizations
+            const orgsRes = await axios.get(`https://api.github.com/users/${username}/orgs`, { headers });
+            const orgsList = orgsRes.data.map(o => `- [${o.login}](${o.url.replace('api.', '').replace('/orgs','')})`).join('\n');
+            const orgsSection = `
+<!-- ORGS START -->
+${orgsList}
+<!-- ORGS END -->
+`;
+
+            // Fetch issues assigned
+            const issuesRes = await axios.get(`https://api.github.com/search/issues?q=assignee:${username}+state:open`, { headers });
+            const issuesList = issuesRes.data.items.map(i => `- [${i.title}](${i.html_url}) in ${i.repository_url.split('/').pop()}`).join('\n');
+            const issuesSection = `
+<!-- ISSUES START -->
+${issuesList}
+<!-- ISSUES END -->
+`;
+
+            // Read and replace README sections
+            let readme = fs.readFileSync(readmePath, 'utf8');
+
+            readme = readme.replace(/<!-- PROJECTS START -->[\\s\\S]*?<!-- PROJECTS END -->/m, reposTable);
+            readme = readme.replace(/<!-- ORGS START -->[\\s\\S]*?<!-- ORGS END -->/m, orgsSection);
+            readme = readme.replace(/<!-- ISSUES START -->[\\s\\S]*?<!-- ISSUES END -->/m, issuesSection);
+
+            fs.writeFileSync(readmePath, readme);
+          }
+
+          fetchStats();
+          "
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update GitHub stats in README"
+          branch: main
