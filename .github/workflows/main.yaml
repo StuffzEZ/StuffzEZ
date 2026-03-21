@@ -2,10 +2,10 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # Runs every 6 hours
+    - cron: '0 */6 * * *'
   push:
     branches: [main, master]
-  workflow_dispatch:          # Allows manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -27,259 +27,313 @@ jobs:
       - name: Install dependencies
         run: npm install @octokit/rest
 
-      - name: Generate README stats
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
+      - name: Write script
         run: |
-          cat << 'EOF' > generate-stats.mjs
+          cat << 'SCRIPTEOF' > generate-stats.mjs
           import { Octokit } from "@octokit/rest";
+          import { readFileSync, writeFileSync } from "fs";
 
-          const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+          const octokit = new Octokit({ auth: process.env.GH_PAT });
           const username = process.env.GITHUB_USERNAME;
 
-          // ── Helpers ──────────────────────────────────────────────────────────────
+          // ── Helpers ───────────────────────────────────────────────────────────────
 
-          function pad(n) { return String(n).padStart(2, "0"); }
+          const pad = n => String(n).padStart(2, "0");
+          const fmt = iso => { const d = new Date(iso); return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`; };
+          const daysAgo = iso => Math.floor((Date.now() - new Date(iso)) / 86_400_000);
 
-          function formatDate(iso) {
-            const d = new Date(iso);
-            return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`;
-          }
+          // Map language names to shields.io logo names where they differ
+          const LANG_LOGOS = {
+            "JavaScript": "javascript", "TypeScript": "typescript", "Python": "python",
+            "Rust": "rust", "Go": "go", "C++": "cplusplus", "C#": "csharp",
+            "Java": "java", "Ruby": "ruby", "PHP": "php", "Swift": "swift",
+            "Kotlin": "kotlin", "Dart": "dart", "HTML": "html5", "CSS": "css3",
+            "Shell": "gnubash", "Vue": "vuedotjs", "React": "react",
+          };
 
-          function daysAgo(iso) {
-            return Math.floor((Date.now() - new Date(iso)) / 86_400_000);
-          }
-
-          function langBar(languages) {
+          function langBadges(languages) {
             const total = Object.values(languages).reduce((a, b) => a + b, 0);
-            if (!total) return "N/A";
+            if (!total) return "—";
             return Object.entries(languages)
-              .sort((a, b) => b[1] - a[1])
-              .slice(0, 5)
-              .map(([lang, bytes]) => {
-                const pct = ((bytes / total) * 100).toFixed(1);
-                return `\`${lang}\` ${pct}%`;
+              .sort((a, b) => b[1] - a[1]).slice(0, 3)
+              .map(([lang]) => {
+                const logo = LANG_LOGOS[lang] || lang.toLowerCase().replace(/\s/g, "");
+                return `![${lang}](https://img.shields.io/badge/-${encodeURIComponent(lang)}-05122A?style=flat-square&logo=${logo})`;
               })
-              .join(" · ");
+              .join(" ");
           }
 
-          function stars(n) {
-            return n > 0 ? ` ⭐ ${n}` : "";
-          }
+          // ── Fetchers ──────────────────────────────────────────────────────────────
 
-          // ── Fetch all non-fork repos ──────────────────────────────────────────────
-
+          // Uses public list — no special OAuth scope required
           async function fetchRepos() {
-            const repos = await octokit.paginate(octokit.repos.listForAuthenticatedUser, {
-              visibility: "public",
-              affiliation: "owner",
-              sort: "pushed",
-              per_page: 100,
+            const repos = await octokit.paginate(octokit.repos.listForUser, {
+              username, type: "owner", sort: "pushed", per_page: 100,
             });
             return repos.filter(r => !r.fork);
           }
 
-          // ── Fetch language breakdown per repo ────────────────────────────────────
-
-          async function fetchLanguages(owner, repo) {
-            try {
-              const { data } = await octokit.repos.listLanguages({ owner, repo });
-              return data;
-            } catch { return {}; }
+          async function fetchLanguages(repo) {
+            try { const { data } = await octokit.repos.listLanguages({ owner: username, repo }); return data; }
+            catch { return {}; }
           }
 
-          // ── Count total commits across all repos ─────────────────────────────────
-
-          async function countTotalCommits(repos) {
+          async function countCommits(repos) {
             let total = 0;
             for (const repo of repos) {
               try {
                 const res = await octokit.request("GET /repos/{owner}/{repo}/commits", {
-                  owner: username,
-                  repo: repo.name,
-                  author: username,
-                  per_page: 1,
+                  owner: username, repo: repo.name, author: username, per_page: 1,
                 });
-                // Extract total from Link header
-                const link = res.headers.link || "";
-                const match = link.match(/page=(\d+)>; rel="last"/);
+                const match = (res.headers.link || "").match(/page=(\d+)>; rel="last"/);
                 total += match ? parseInt(match[1]) : res.data.length;
-              } catch { /* skip */ }
+              } catch { /* skip empty / inaccessible repos */ }
             }
             return total;
           }
 
-          // ── Fetch open issues authored by user ───────────────────────────────────
-
           async function fetchIssues() {
-            const issues = await octokit.paginate(octokit.issues.listForAuthenticatedUser, {
-              filter: "created",
-              state: "open",
-              per_page: 100,
-            });
-            return issues.filter(i => !i.pull_request);
+            try {
+              const all = await octokit.paginate(octokit.issues.listForAuthenticatedUser, {
+                filter: "created", state: "open", per_page: 100,
+              });
+              return all.filter(i => !i.pull_request);
+            } catch { return []; }
           }
-
-          // ── Fetch open PRs authored by user ──────────────────────────────────────
 
           async function fetchPRs() {
-            const { data } = await octokit.search.issuesAndPullRequests({
-              q: `author:${username} type:pr state:open`,
-              per_page: 20,
-            });
-            return data.items;
+            try {
+              const { data } = await octokit.search.issuesAndPullRequests({
+                q: `author:${username} type:pr state:open`, per_page: 20,
+              });
+              return data.items;
+            } catch { return []; }
           }
-
-          // ── Fetch organisations ───────────────────────────────────────────────────
 
           async function fetchOrgs() {
-            const { data } = await octokit.orgs.listForAuthenticatedUser({ per_page: 100 });
-            return data;
+            try { const { data } = await octokit.orgs.listForAuthenticatedUser({ per_page: 100 }); return data; }
+            catch { const { data } = await octokit.orgs.listForUser({ username, per_page: 100 }); return data; }
           }
-
-          // ── Fetch user profile ────────────────────────────────────────────────────
 
           async function fetchUser() {
-            const { data } = await octokit.users.getAuthenticated();
-            return data;
+            try { const { data } = await octokit.users.getAuthenticated(); return data; }
+            catch { const { data } = await octokit.users.getByUsername({ username }); return data; }
           }
-
-          // ── Fetch recent activity (last 10 events) ────────────────────────────────
 
           async function fetchActivity() {
-            const { data } = await octokit.activity.listPublicEventsForUser({
-              username,
-              per_page: 10,
-            });
-            return data;
+            try { const { data } = await octokit.activity.listPublicEventsForUser({ username, per_page: 15 }); return data; }
+            catch { return []; }
           }
 
-          // ── Build Markdown sections ───────────────────────────────────────────────
+          // ── Section builders ──────────────────────────────────────────────────────
 
-          function buildProjectsTable(repos, languages) {
-            const rows = repos.slice(0, 10).map(r => {
-              const langs = langBar(languages[r.name] || {});
-              const updated = formatDate(r.pushed_at);
-              const desc = (r.description || "—").replace(/\|/g, "\\|").slice(0, 60);
-              return `| [**${r.name}**](${r.html_url})${stars(r.stargazers_count)} | ${desc} | ${langs} | ${updated} |`;
-            });
+          function buildHeader(user) {
+            const bio      = user.bio      ? `\n> ${user.bio}\n`                                                         : "";
+            const location = user.location ? `📍 **${user.location}**`                                                  : "";
+            const blog     = user.blog     ? `🌐 [Website](${user.blog.startsWith("http") ? user.blog : "https://"+user.blog})` : "";
+            const twitter  = user.twitter_username ? `🐦 [@${user.twitter_username}](https://twitter.com/${user.twitter_username})` : "";
+            const links    = [location, blog, twitter].filter(Boolean).join(" &nbsp;·&nbsp; ");
 
             return [
-              "### 📦 Recent Projects",
-              "",
-              "| Repository | Description | Languages | Last Push |",
-              "|------------|-------------|-----------|-----------|",
-              ...rows,
-              "",
+              `<div align="center">`,
+              ``,
+              `# 👋 Hi, I'm ${user.name || username}`,
+              bio,
+              links,
+              ``,
+              `[![Profile Views](https://komarev.com/ghpvc/?username=${username}&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/${username})`,
+              `[![GitHub followers](https://img.shields.io/github/followers/${username}?label=Followers&style=flat-square&color=6366f1&logo=github)](https://github.com/${username}?tab=followers)`,
+              `[![GitHub User's stars](https://img.shields.io/github/stars/${username}?affiliations=OWNER&style=flat-square&color=f59e0b&logo=github&label=Total%20Stars)](https://github.com/${username})`,
+              ``,
+              `</div>`,
+              ``,
+              `---`,
+              ``,
             ].join("\n");
           }
 
-          function buildStatsTable(user, totalCommits, repos, issues, prs, orgs) {
+          function buildStats(user, totalCommits, repos, issues, prs, orgs) {
             const totalStars = repos.reduce((s, r) => s + r.stargazers_count, 0);
             const totalForks = repos.reduce((s, r) => s + r.forks_count, 0);
             const now = new Date().toUTCString();
 
             return [
-              "### 📊 GitHub Stats",
-              "",
-              "| Metric | Value |",
-              "|--------|-------|",
-              `| 🗂️ Public Repos | **${user.public_repos}** |`,
-              `| ⭐ Total Stars Earned | **${totalStars}** |`,
-              `| 🍴 Total Forks | **${totalForks}** |`,
-              `| 💬 Commits (owned repos) | **${totalCommits}+** |`,
-              `| 🐛 Open Issues Created | **${issues.length}** |`,
-              `| 🔀 Open Pull Requests | **${prs.length}** |`,
-              `| 🏢 Organisations | **${orgs.length}** |`,
-              `| 👥 Followers | **${user.followers}** |`,
-              `| 👤 Following | **${user.following}** |`,
-              `| 📅 Member Since | **${formatDate(user.created_at)}** |`,
-              `| 🕒 Last Updated | *${now}* |`,
-              "",
+              `## 📊 GitHub Stats`,
+              ``,
+              `<div align="center">`,
+              ``,
+              `<img src="https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>`,
+              `&nbsp;`,
+              `<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>`,
+              ``,
+              `<img src="https://github-readme-streak-stats.herokuapp.com/?user=${username}&theme=tokyonight&hide_border=true" height="150"/>`,
+              ``,
+              `</div>`,
+              ``,
+              `### At a Glance`,
+              ``,
+              `<div align="center">`,
+              ``,
+              `![Repos](https://img.shields.io/badge/Public%20Repos-${user.public_repos}-6366f1?style=for-the-badge&logo=github)`,
+              `![Stars](https://img.shields.io/badge/Total%20Stars-${totalStars}-f59e0b?style=for-the-badge&logo=star)`,
+              `![Forks](https://img.shields.io/badge/Total%20Forks-${totalForks}-f97316?style=for-the-badge&logo=git)`,
+              `![Commits](https://img.shields.io/badge/Commits%20(est)-${totalCommits}%2B-22c55e?style=for-the-badge&logo=git)`,
+              `![Issues](https://img.shields.io/badge/Open%20Issues-${issues.length}-ef4444?style=for-the-badge&logo=github)`,
+              `![PRs](https://img.shields.io/badge/Open%20PRs-${prs.length}-8b5cf6?style=for-the-badge&logo=github)`,
+              `![Orgs](https://img.shields.io/badge/Organisations-${orgs.length}-0ea5e9?style=for-the-badge&logo=github)`,
+              `![Followers](https://img.shields.io/badge/Followers-${user.followers}-ec4899?style=for-the-badge&logo=github)`,
+              ``,
+              `</div>`,
+              ``,
+              `<sub>🕒 Stats last refreshed: ${now}</sub>`,
+              ``,
+              `---`,
+              ``,
             ].join("\n");
           }
 
-          function buildOrgsSection(orgs) {
-            if (!orgs.length) return "";
-            const badges = orgs
-              .map(o => `[![${o.login}](${o.avatar_url}&s=40)](https://github.com/${o.login})`)
-              .join(" ");
-            return [
-              "### 🏢 Organisations",
-              "",
-              badges,
-              "",
-            ].join("\n");
-          }
-
-          function buildIssuesSection(issues) {
-            if (!issues.length) return "### 🐛 Open Issues\n\n*No open issues.*\n\n";
-            const rows = issues.slice(0, 8).map(i => {
-              const repo = i.repository_url.replace("https://api.github.com/repos/", "");
-              const age = daysAgo(i.created_at);
-              const title = i.title.replace(/\|/g, "\\|").slice(0, 60);
-              return `| [${title}](${i.html_url}) | \`${repo}\` | ${age}d ago |`;
+          function buildProjects(repos, languages) {
+            const rows = repos.slice(0, 10).map(r => {
+              const langs  = langBadges(languages[r.name] || {});
+              const desc   = (r.description || "—").replace(/\|/g, "\\|").slice(0, 55);
+              const star   = r.stargazers_count > 0
+                ? `![stars](https://img.shields.io/github/stars/${username}/${r.name}?style=flat-square&color=f59e0b&label=⭐)`
+                : "";
+              const issues = r.open_issues_count > 0
+                ? `![issues](https://img.shields.io/github/issues/${username}/${r.name}?style=flat-square&color=ef4444&label=issues)`
+                : "";
+              const license = r.license
+                ? `![license](https://img.shields.io/github/license/${username}/${r.name}?style=flat-square)`
+                : "";
+              const badges = [star, issues, license].filter(Boolean).join(" ");
+              return `| [**\`${r.name}\`**](${r.html_url}) | ${desc} | ${langs} | ${badges || "—"} | \`${fmt(r.pushed_at)}\` |`;
             });
+
             return [
-              "### 🐛 Open Issues",
-              "",
-              "| Title | Repository | Age |",
-              "|-------|------------|-----|",
+              `## 📦 Recent Projects`,
+              ``,
+              `| Repository | Description | Stack | Badges | Last Push |`,
+              `|------------|-------------|:-----:|:------:|:---------:|`,
               ...rows,
-              "",
+              ``,
+              `---`,
+              ``,
             ].join("\n");
           }
 
-          function buildPRsSection(prs) {
-            if (!prs.length) return "### 🔀 Open Pull Requests\n\n*No open PRs.*\n\n";
-            const rows = prs.slice(0, 8).map(pr => {
-              const repo = pr.repository_url.replace("https://api.github.com/repos/", "");
-              const age = daysAgo(pr.created_at);
-              const title = pr.title.replace(/\|/g, "\\|").slice(0, 60);
-              return `| [${title}](${pr.html_url}) | \`${repo}\` | ${age}d ago |`;
-            });
-            return [
-              "### 🔀 Open Pull Requests",
-              "",
-              "| Title | Repository | Age |",
-              "|-------|------------|-----|",
-              ...rows,
-              "",
-            ].join("\n");
-          }
-
-          function buildActivitySection(events) {
-            const descriptions = {
-              PushEvent:            e => `🔨 Pushed to \`${e.repo.name}\``,
-              CreateEvent:          e => `✨ Created ${e.payload.ref_type} in \`${e.repo.name}\``,
-              IssuesEvent:          e => `🐛 ${e.payload.action} issue in \`${e.repo.name}\``,
-              PullRequestEvent:     e => `🔀 ${e.payload.action} PR in \`${e.repo.name}\``,
-              WatchEvent:           e => `⭐ Starred \`${e.repo.name}\``,
-              ForkEvent:            e => `🍴 Forked \`${e.repo.name}\``,
-              IssueCommentEvent:    e => `💬 Commented in \`${e.repo.name}\``,
-              ReleaseEvent:         e => `🚀 Released in \`${e.repo.name}\``,
-              DeleteEvent:          e => `🗑️ Deleted ${e.payload.ref_type} in \`${e.repo.name}\``,
+          function buildActivity(events) {
+            const map = {
+              PushEvent:         e => `\`📦 Push\``,
+              CreateEvent:       e => `\`✨ Create\``,
+              IssuesEvent:       e => `\`🐛 Issue\``,
+              PullRequestEvent:  e => `\`🔀 PR\``,
+              WatchEvent:        e => `\`⭐ Star\``,
+              ForkEvent:         e => `\`🍴 Fork\``,
+              IssueCommentEvent: e => `\`💬 Comment\``,
+              ReleaseEvent:      e => `\`🚀 Release\``,
+              DeleteEvent:       e => `\`🗑️ Delete\``,
             };
 
-            const lines = events
-              .filter(e => descriptions[e.type])
+            const desc = {
+              PushEvent:         e => `Pushed to [\`${e.repo.name}\`](https://github.com/${e.repo.name})`,
+              CreateEvent:       e => `Created ${e.payload.ref_type} in [\`${e.repo.name}\`](https://github.com/${e.repo.name})`,
+              IssuesEvent:       e => `${e.payload.action} issue in [\`${e.repo.name}\`](https://github.com/${e.repo.name})`,
+              PullRequestEvent:  e => `${e.payload.action} PR in [\`${e.repo.name}\`](https://github.com/${e.repo.name})`,
+              WatchEvent:        e => `Starred [\`${e.repo.name}\`](https://github.com/${e.repo.name})`,
+              ForkEvent:         e => `Forked [\`${e.repo.name}\`](https://github.com/${e.repo.name})`,
+              IssueCommentEvent: e => `Commented in [\`${e.repo.name}\`](https://github.com/${e.repo.name})`,
+              ReleaseEvent:      e => `Published release in [\`${e.repo.name}\`](https://github.com/${e.repo.name})`,
+              DeleteEvent:       e => `Deleted ${e.payload.ref_type} in [\`${e.repo.name}\`](https://github.com/${e.repo.name})`,
+            };
+
+            const rows = events
+              .filter(e => map[e.type])
               .slice(0, 8)
-              .map(e => `- ${descriptions[e.type](e)} — *${formatDate(e.created_at)}*`);
+              .map(e => `| ${map[e.type](e)} | ${desc[e.type](e)} | \`${fmt(e.created_at)}\` |`);
+
+            if (!rows.length) return `## ⚡ Recent Activity\n\n*No recent public activity.*\n\n---\n\n`;
 
             return [
-              "### ⚡ Recent Activity",
-              "",
-              ...lines,
-              "",
+              `## ⚡ Recent Activity`,
+              ``,
+              `| Type | Event | Date |`,
+              `|:----:|-------|:----:|`,
+              ...rows,
+              ``,
+              `---`,
+              ``,
             ].join("\n");
           }
 
-          // ── Inject into README ────────────────────────────────────────────────────
+          function buildIssues(issues) {
+            if (!issues.length) {
+              return `## 🐛 Open Issues\n\n![No Issues](https://img.shields.io/badge/Open%20Issues-0-brightgreen?style=for-the-badge)\n\n---\n\n`;
+            }
+            const rows = issues.slice(0, 8).map(i => {
+              const repo  = i.repository_url.replace("https://api.github.com/repos/", "");
+              const age   = daysAgo(i.created_at);
+              const title = i.title.replace(/\|/g, "\\|").slice(0, 55);
+              const color = age < 7 ? "brightgreen" : age < 30 ? "yellow" : "red";
+              const badge = `![${age}d](https://img.shields.io/badge/${age}d-open-${color}?style=flat-square)`;
+              return `| [${title}](${i.html_url}) | [\`${repo}\`](https://github.com/${repo}) | ${badge} |`;
+            });
+            return [
+              `## 🐛 Open Issues`,
+              ``,
+              `| Title | Repository | Age |`,
+              `|-------|------------|:---:|`,
+              ...rows,
+              ``,
+              `---`,
+              ``,
+            ].join("\n");
+          }
 
-          import { readFileSync, writeFileSync } from "fs";
+          function buildPRs(prs) {
+            if (!prs.length) {
+              return `## 🔀 Open Pull Requests\n\n![No PRs](https://img.shields.io/badge/Open%20PRs-0-brightgreen?style=for-the-badge)\n\n---\n\n`;
+            }
+            const rows = prs.slice(0, 8).map(pr => {
+              const repo  = pr.repository_url.replace("https://api.github.com/repos/", "");
+              const age   = daysAgo(pr.created_at);
+              const title = pr.title.replace(/\|/g, "\\|").slice(0, 55);
+              const color = age < 7 ? "brightgreen" : age < 30 ? "yellow" : "orange";
+              return `| [${title}](${pr.html_url}) | [\`${repo}\`](https://github.com/${repo}) | ![${age}d](https://img.shields.io/badge/${age}d-open-${color}?style=flat-square) |`;
+            });
+            return [
+              `## 🔀 Open Pull Requests`,
+              ``,
+              `| Title | Repository | Age |`,
+              `|-------|------------|:---:|`,
+              ...rows,
+              ``,
+              `---`,
+              ``,
+            ].join("\n");
+          }
 
-          function injectSection(readme, marker, content) {
+          function buildOrgs(orgs) {
+            if (!orgs.length) return "";
+            const avatars = orgs
+              .map(o => `<a href="https://github.com/${o.login}" title="${o.login}"><img src="${o.avatar_url}&s=60" width="60" height="60" alt="${o.login}" style="border-radius:12px;margin:6px"/></a>`)
+              .join("\n");
+            return [
+              `## 🏢 Organisations`,
+              ``,
+              `<div align="center">`,
+              ``,
+              avatars,
+              ``,
+              `</div>`,
+              ``,
+              `---`,
+              ``,
+            ].join("\n");
+          }
+
+          // ── README injection ──────────────────────────────────────────────────────
+
+          function inject(readme, marker, content) {
             const start = `<!-- ${marker}:START -->`;
             const end   = `<!-- ${marker}:END -->`;
             const block = `${start}\n${content}\n${end}`;
@@ -292,50 +346,51 @@ jobs:
           // ── Main ──────────────────────────────────────────────────────────────────
 
           async function main() {
-            console.log("Fetching GitHub data…");
+            console.log(`⏳ Fetching GitHub data for @${username}…`);
 
             const [user, repos, issues, prs, orgs, activity] = await Promise.all([
-              fetchUser(),
-              fetchRepos(),
-              fetchIssues(),
-              fetchPRs(),
-              fetchOrgs(),
-              fetchActivity(),
+              fetchUser(), fetchRepos(), fetchIssues(), fetchPRs(), fetchOrgs(), fetchActivity(),
             ]);
 
-            // Fetch languages in parallel (capped to 15 repos for API budget)
+            console.log(`📦 ${repos.length} repos | 🐛 ${issues.length} issues | 🔀 ${prs.length} PRs | 🏢 ${orgs.length} orgs`);
+
             const langEntries = await Promise.all(
-              repos.slice(0, 15).map(async r => [r.name, await fetchLanguages(username, r.name)])
+              repos.slice(0, 15).map(async r => [r.name, await fetchLanguages(r.name)])
             );
             const languages = Object.fromEntries(langEntries);
 
-            // Commit count is slow — run it too
-            const totalCommits = await countTotalCommits(repos.slice(0, 20));
+            const totalCommits = await countCommits(repos.slice(0, 20));
+            console.log(`💬 ~${totalCommits} commits counted`);
 
-            const readmePath = "README.md";
             let readme = "";
-            try { readme = readFileSync(readmePath, "utf8"); }
+            try { readme = readFileSync("README.md", "utf8"); }
             catch { readme = `# ${username}\n`; }
 
-            readme = injectSection(readme, "GITHUB_STATS",    buildStatsTable(user, totalCommits, repos, issues, prs, orgs));
-            readme = injectSection(readme, "GITHUB_PROJECTS", buildProjectsTable(repos, languages));
-            readme = injectSection(readme, "GITHUB_ISSUES",   buildIssuesSection(issues));
-            readme = injectSection(readme, "GITHUB_PRS",      buildPRsSection(prs));
-            readme = injectSection(readme, "GITHUB_ORGS",     buildOrgsSection(orgs));
-            readme = injectSection(readme, "GITHUB_ACTIVITY", buildActivitySection(activity));
+            readme = inject(readme, "GITHUB_HEADER",   buildHeader(user));
+            readme = inject(readme, "GITHUB_STATS",    buildStats(user, totalCommits, repos, issues, prs, orgs));
+            readme = inject(readme, "GITHUB_PROJECTS", buildProjects(repos, languages));
+            readme = inject(readme, "GITHUB_ACTIVITY", buildActivity(activity));
+            readme = inject(readme, "GITHUB_ISSUES",   buildIssues(issues));
+            readme = inject(readme, "GITHUB_PRS",      buildPRs(prs));
+            readme = inject(readme, "GITHUB_ORGS",     buildOrgs(orgs));
 
-            writeFileSync(readmePath, readme, "utf8");
-            console.log("README.md updated successfully.");
+            writeFileSync("README.md", readme, "utf8");
+            console.log("✅ README.md updated successfully.");
           }
 
           main().catch(err => { console.error(err); process.exit(1); });
-          EOF
-          node generate-stats.mjs
+          SCRIPTEOF
 
-      - name: Commit and push updated README
+      - name: Run script
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: node generate-stats.mjs
+
+      - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.name "GitHub Actions Bot"
           git add README.md
           git diff --staged --quiet || git commit -m "docs: auto-update README stats [skip ci]"
           git push
