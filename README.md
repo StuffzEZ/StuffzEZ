@@ -20,16 +20,23 @@ I also make games.. Sometimes!
 <br><br>
 Pls dont judge me if you see any of my code is AI- im trying to fix that right now; quite a bit of the time I really want to make something that does something but I don't have the time!!
 
-## Projects
-<!-- PROJECTS START -->
-<!-- PROJECTS END -->
-
-## Organizations
-<!-- ORGS START -->
-<!-- ORGS END -->
-
-## Open Issues
-<!-- ISSUES START -->
-<!-- ISSUES END -->
+<!-- GITHUB_STATS:START -->
+<!-- GITHUB_STATS:END -->
+ 
+<!-- GITHUB_PROJECTS:START -->
+<!-- GITHUB_PROJECTS:END -->
+ 
+<!-- GITHUB_ACTIVITY:START -->
+<!-- GITHUB_ACTIVITY:END -->
+ 
+<!-- GITHUB_ISSUES:START -->
+<!-- GITHUB_ISSUES:END -->
+ 
+<!-- GITHUB_PRS:START -->
+<!-- GITHUB_PRS:END -->
+ 
+<!-- GITHUB_ORGS:START -->
+<!-- GITHUB_ORGS:END -->
+ 
 
 ![MyStats](https://github-readme-stats.vercel.app/api?username=stuffzez&show_icons=true&theme=dark&hide=stars,prs,issues,commits,contribs&show_rank=true&hide_title=true)![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffzez&layout=compact&theme=dark)
