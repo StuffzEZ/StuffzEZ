@@ -9,11 +9,11 @@ A Developer That Makes A Project Bascially Every Day :)
 
 **Here are some ideas to get you started:**
 
-ðââï¸ A short introduction - what is your organization all about?
-ð Contribution guidelines - how can the community get involved?
-ð©âð» Useful resources - where can the community find your docs? Is there anything else the community should know?
-ð¿ Fun facts - what does your team eat for breakfast?
-ð§ Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Ã°ÂÂÂÃ¢ÂÂÃ¢ÂÂÃ¯Â¸Â A short introduction - what is your organization all about?
+Ã°ÂÂÂ Contribution guidelines - how can the community get involved?
+Ã°ÂÂÂ©Ã¢ÂÂÃ°ÂÂÂ» Useful resources - where can the community find your docs? Is there anything else the community should know?
+Ã°ÂÂÂ¿ Fun facts - what does your team eat for breakfast?
+Ã°ÂÂ§Â Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 Hi! I am StuffzEZ.. I like computers...
 I also make games.. Sometimes!
@@ -21,7 +21,7 @@ I also make games.. Sometimes!
 Pls dont judge me if you see any of my code is AI- im trying to fix that right now; quite a bit of the time I really want to make something that does something but I don't have the time!!
 
 <!-- GITHUB_STATS:START -->
-## ð GitHub Stats
+## Ã°ÂÂÂ GitHub Stats
 
 <div align="center">
 
@@ -48,25 +48,25 @@ Pls dont judge me if you see any of my code is AI- im trying to fix that right n
 
 </div>
 
-<sub>ð Stats last refreshed: Sat, 21 Mar 2026 13:17:56 GMT</sub>
+<sub>Ã°ÂÂÂ Stats last refreshed: Sat, 21 Mar 2026 13:17:56 GMT</sub>
 
 ---
 
 <!-- GITHUB_STATS:END -->
  
 <!-- GITHUB_PROJECTS:START -->
-## ð¦ Recent Projects
+## Ã°ÂÂÂ¦ Recent Projects
 
 | Repository | Description | Stack | Badges | Last Push |
 |------------|-------------|:-----:|:------:|:---------:|
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | â | `2026-03-21` |
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | Ã¢ÂÂ | `2026-03-21` |
 | [**`Vortex-Solver`**](https://github.com/StuffzEZ/Vortex-Solver) | The universal answer engine - Browser native, free and  | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | ![license](https://img.shields.io/github/license/StuffzEZ/Vortex-Solver?style=flat-square) | `2026-03-19` |
 | [**`ScaryBaboonVolumeMod`**](https://github.com/StuffzEZ/ScaryBaboonVolumeMod) | Adjust Scary Baboon Volume with QuestPatcher | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp) | ![license](https://img.shields.io/github/license/StuffzEZ/ScaryBaboonVolumeMod?style=flat-square) | `2026-02-26` |
 | [**`DLLNoV`**](https://github.com/StuffzEZ/DLLNoV) | A simple way to get around virus warnings for gorilla t | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp) | ![license](https://img.shields.io/github/license/StuffzEZ/DLLNoV?style=flat-square) | `2026-01-28` |
 | [**`docsblog`**](https://github.com/StuffzEZ/docsblog) | blog+docs | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat-square&logo=ruby) | ![license](https://img.shields.io/github/license/StuffzEZ/docsblog?style=flat-square) | `2026-01-24` |
 | [**`Tutorielle`**](https://github.com/StuffzEZ/Tutorielle) | A tutorial library | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | ![license](https://img.shields.io/github/license/StuffzEZ/Tutorielle?style=flat-square) | `2026-01-03` |
 | [**`Weylus`**](https://github.com/StuffzEZ/Weylus) | Use your tablet as graphic tablet/touch screen on your  | ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) ![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) | ![license](https://img.shields.io/github/license/StuffzEZ/Weylus?style=flat-square) | `2025-12-19` |
-| [**`FragMC-ResourcePacks`**](https://github.com/StuffzEZ/FragMC-ResourcePacks) | Resource Pack Storage for https://modrinth.com/organiza | â | ![license](https://img.shields.io/github/license/StuffzEZ/FragMC-ResourcePacks?style=flat-square) | `2025-12-12` |
+| [**`FragMC-ResourcePacks`**](https://github.com/StuffzEZ/FragMC-ResourcePacks) | Resource Pack Storage for https://modrinth.com/organiza | Ã¢ÂÂ | ![license](https://img.shields.io/github/license/StuffzEZ/FragMC-ResourcePacks?style=flat-square) | `2025-12-12` |
 | [**`QuestoMic`**](https://github.com/StuffzEZ/QuestoMic) | Wireless microphone for quest using pico w | ![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat-square&logo=cmake) | ![license](https://img.shields.io/github/license/StuffzEZ/QuestoMic?style=flat-square) | `2025-12-03` |
 | [**`PyLoad`**](https://github.com/StuffzEZ/PyLoad) | Automatically reload/re-run your python scripts | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) | ![license](https://img.shields.io/github/license/StuffzEZ/PyLoad?style=flat-square) | `2025-11-27` |
 
@@ -75,25 +75,25 @@ Pls dont judge me if you see any of my code is AI- im trying to fix that right n
 <!-- GITHUB_PROJECTS:END -->
  
 <!-- GITHUB_ACTIVITY:START -->
-## â¡ Recent Activity
+## Ã¢ÂÂ¡ Recent Activity
 
 | Type | Event | Date |
 |:----:|-------|:----:|
-| `ð¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
-| `ð¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
-| `ð¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
-| `ð¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
-| `ð¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
-| `ð¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
-| `ð¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
-| `ð¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
+| `Ã°ÂÂÂ¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
+| `Ã°ÂÂÂ¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
+| `Ã°ÂÂÂ¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
+| `Ã°ÂÂÂ¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
+| `Ã°ÂÂÂ¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
+| `Ã°ÂÂÂ¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
+| `Ã°ÂÂÂ¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
+| `Ã°ÂÂÂ¦ Push` | Pushed to [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-21` |
 
 ---
 
 <!-- GITHUB_ACTIVITY:END -->
  
 <!-- GITHUB_ISSUES:START -->
-## ð Open Issues
+## Ã°ÂÂÂ Open Issues
 
 | Title | Repository | Age |
 |-------|------------|:---:|
@@ -110,7 +110,7 @@ Pls dont judge me if you see any of my code is AI- im trying to fix that right n
 <!-- GITHUB_ISSUES:END -->
  
 <!-- GITHUB_PRS:START -->
-## ð Open Pull Requests
+## Ã°ÂÂÂ Open Pull Requests
 
 | Title | Repository | Age |
 |-------|------------|:---:|
@@ -130,12 +130,12 @@ Pls dont judge me if you see any of my code is AI- im trying to fix that right n
 <!-- GITHUB_HEADER:START -->
 <div align="center">
 
-# ð Hi, I'm StuffzEZ (Aka Stuf_y)
+# Ã°ÂÂÂ Hi, I'm StuffzEZ (Aka Stuf_y)
 
 > :)
 @OptionallyBlueStudios is the best! (totally not made by me..)
 
-ð **UK** &nbsp;Â·&nbsp; ð [Website](https://stuffzez.github.io)
+Ã°ÂÂÂ **UK** &nbsp;ÃÂ·&nbsp; Ã°ÂÂÂ [Website](https://stuffzez.github.io)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=StuffzEZ&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/StuffzEZ)
 [![GitHub followers](https://img.shields.io/github/followers/StuffzEZ?label=Followers&style=flat-square&color=6366f1&logo=github)](https://github.com/StuffzEZ?tab=followers)
