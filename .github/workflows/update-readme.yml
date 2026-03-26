@@ -1,0 +1,52 @@
+name: Update README Stats + txtdb
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    env:
+      GH_PAT:                  ${{ secrets.GH_PAT }}
+      GITHUB_USERNAME:         StuffzEZ
+      SHOW_PRIVATE_REPOS:      "true"
+      SHOW_ALL_ORGS:           "true"
+      SHOW_PRIVATE_COMMITS:    "true"
+      SHOW_CUSTOM_NOTES:       "true"
+      SHOW_PINNED_OVERRIDE:    "true"
+      CUSTOM_WEBSITE:          "https://stuffzez.github.io"
+      CUSTOM_PRONOUNS:         ""
+      CUSTOM_HIRE:             ""
+      CUSTOM_NOTE:             ""
+      MAX_REPOS:               "10"
+      STATS_REPO_OWNER:        "StuffzEZ"
+      STATS_REPO_NAME:         "Stats"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install @octokit/rest
+      - name: Download latest script
+        run: |
+          curl -fsSL https://stuffzez.github.io/Stats/run.mjs -o run.mjs || \
+          curl -fsSL https://raw.githubusercontent.com/StuffzEZ/Stats/main/run.mjs -o run.mjs
+      - name: Run
+        run: node run.mjs
+      - name: Commit README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add README.md
+          git diff --staged --quiet || git commit -m "docs: auto-update README stats [skip ci]"
+          git push
