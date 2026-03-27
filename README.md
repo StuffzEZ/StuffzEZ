@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Fri, 27 Mar 2026 01:47:30 GMT</sub>
+<sub>🕒 Last updated: Fri, 27 Mar 2026 06:59:42 GMT</sub>
 
 ---
 
@@ -71,7 +71,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-26` |
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-27` |
 | [**`Stats`**](https://github.com/StuffzEZ/Stats) | Your own customisable stats page for your README | — | — | `2026-03-26` |
 | [**`LearnToCode`**](https://github.com/StuffzEZ/LearnToCode) | Learn to code in a fun way! | — | — | `2026-03-26` |
 | [**`ScaryBaboonVolumeMod`**](https://github.com/StuffzEZ/ScaryBaboonVolumeMod) | Adjust Scary Baboon Volume with QuestPatcher | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp) | — | `2026-02-26` |
@@ -91,10 +91,10 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-27` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-26` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-26` |
 | `📦 Push` → [`StuffzEZ/Stats`](https://github.com/StuffzEZ/Stats) | `2026-03-26` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-26` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-26` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-26` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-26` |
