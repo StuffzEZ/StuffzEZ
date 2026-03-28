@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Sat, 28 Mar 2026 01:27:06 GMT</sub>
+<sub>🕒 Last updated: Sat, 28 Mar 2026 06:50:49 GMT</sub>
 
 ---
 
@@ -71,8 +71,8 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-28` |
 | [**`LearnToCode`**](https://github.com/StuffzEZ/LearnToCode) | Learn to code in a fun way! | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-27` |
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-27` |
 | [**`Stats`**](https://github.com/StuffzEZ/Stats) | Your own customisable stats page for your README | — | — | `2026-03-26` |
 | [**`ScaryBaboonVolumeMod`**](https://github.com/StuffzEZ/ScaryBaboonVolumeMod) | Adjust Scary Baboon Volume with QuestPatcher | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp) | — | `2026-02-26` |
 | [**`DLLNoV`**](https://github.com/StuffzEZ/DLLNoV) | A simple way to get around virus warnings for gorilla t | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp) | — | `2026-01-28` |
@@ -91,6 +91,7 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-28` |
 | `📦 Push` → [`StuffzEZ/LearnToCode`](https://github.com/StuffzEZ/LearnToCode) | `2026-03-27` |
 | `🐛 Issue` → labeled in [`GeyserMC/Geyser`](https://github.com/GeyserMC/Geyser) | `2026-03-27` |
 | `🐛 Issue` → opened in [`GeyserMC/Geyser`](https://github.com/GeyserMC/Geyser) | `2026-03-27` |
@@ -98,7 +99,6 @@ Current project: Everything
 | `🐛 Issue` → opened in [`PaperMC/Paper`](https://github.com/PaperMC/Paper) | `2026-03-27` |
 | `💬 Comment` → [`GeyserMC/Geyser`](https://github.com/GeyserMC/Geyser) | `2026-03-27` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-27` |
-| `📦 Push` → [`StuffzEZ/LearnToCode`](https://github.com/StuffzEZ/LearnToCode) | `2026-03-27` |
 
 ---
 
