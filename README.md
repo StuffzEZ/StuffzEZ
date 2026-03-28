@@ -52,7 +52,7 @@ Current project: Everything
 ![Repos](https://img.shields.io/badge/Repos-72-6366f1?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-1-f59e0b?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-4-f97316?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-689%2B-22c55e?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-690%2B-22c55e?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/Issues-7-ef4444?style=for-the-badge)
 ![PRs](https://img.shields.io/badge/PRs-1-8b5cf6?style=for-the-badge)
 ![Orgs](https://img.shields.io/badge/Orgs-0-0ea5e9?style=for-the-badge)
@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Fri, 27 Mar 2026 18:46:48 GMT</sub>
+<sub>🕒 Last updated: Sat, 28 Mar 2026 01:27:06 GMT</sub>
 
 ---
 
@@ -71,7 +71,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`LearnToCode`**](https://github.com/StuffzEZ/LearnToCode) | Learn to code in a fun way! | — | — | `2026-03-27` |
+| [**`LearnToCode`**](https://github.com/StuffzEZ/LearnToCode) | Learn to code in a fun way! | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-27` |
 | [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-27` |
 | [**`Stats`**](https://github.com/StuffzEZ/Stats) | Your own customisable stats page for your README | — | — | `2026-03-26` |
 | [**`ScaryBaboonVolumeMod`**](https://github.com/StuffzEZ/ScaryBaboonVolumeMod) | Adjust Scary Baboon Volume with QuestPatcher | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp) | — | `2026-02-26` |
@@ -92,13 +92,13 @@ Current project: Everything
 | Event | Date |
 |-------|:----:|
 | `📦 Push` → [`StuffzEZ/LearnToCode`](https://github.com/StuffzEZ/LearnToCode) | `2026-03-27` |
+| `🐛 Issue` → labeled in [`GeyserMC/Geyser`](https://github.com/GeyserMC/Geyser) | `2026-03-27` |
+| `🐛 Issue` → opened in [`GeyserMC/Geyser`](https://github.com/GeyserMC/Geyser) | `2026-03-27` |
+| `🐛 Issue` → labeled in [`PaperMC/Paper`](https://github.com/PaperMC/Paper) | `2026-03-27` |
+| `🐛 Issue` → opened in [`PaperMC/Paper`](https://github.com/PaperMC/Paper) | `2026-03-27` |
+| `💬 Comment` → [`GeyserMC/Geyser`](https://github.com/GeyserMC/Geyser) | `2026-03-27` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-27` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-27` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-27` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-26` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-26` |
-| `📦 Push` → [`StuffzEZ/Stats`](https://github.com/StuffzEZ/Stats) | `2026-03-26` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-26` |
+| `📦 Push` → [`StuffzEZ/LearnToCode`](https://github.com/StuffzEZ/LearnToCode) | `2026-03-27` |
 
 ---
 
@@ -109,12 +109,12 @@ Current project: Everything
 
 | Title | Repository | Age |
 |-------|------------|:---:|
-| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/46d-open-red?style=flat-square) |
+| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/47d-open-red?style=flat-square) |
 | [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/181d-open-red?style=flat-square) |
-| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/280d-open-red?style=flat-square) |
+| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/281d-open-red?style=flat-square) |
 | [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/532d-open-red?style=flat-square) |
 | [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/533d-open-red?style=flat-square) |
-| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/649d-open-red?style=flat-square) |
+| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/650d-open-red?style=flat-square) |
 | [Add Icon To Every Page](https://github.com/StuffzEZ/stuffzez.github.io/issues/14) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/706d-open-red?style=flat-square) |
 
 ---
