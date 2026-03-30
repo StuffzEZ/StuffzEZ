@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Mon, 30 Mar 2026 01:52:17 GMT</sub>
+<sub>🕒 Last updated: Mon, 30 Mar 2026 07:18:36 GMT</sub>
 
 ---
 
@@ -71,7 +71,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-29` |
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-30` |
 | [**`LearnToCode`**](https://github.com/StuffzEZ/LearnToCode) | Learn to code in a fun way! | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-29` |
 | [**`Python-CertGen`**](https://github.com/StuffzEZ/Python-CertGen) | Generate Self Signed certificates with python | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) | — | `2026-03-28` |
 | [**`Stats`**](https://github.com/StuffzEZ/Stats) | Your own customisable stats page for your README | — | — | `2026-03-26` |
@@ -91,6 +91,7 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-30` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-29` |
 | `📦 Push` → [`StuffzEZ/LearnToCode`](https://github.com/StuffzEZ/LearnToCode) | `2026-03-29` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-29` |
@@ -98,7 +99,6 @@ Current project: Everything
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-29` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-28` |
 | `📦 Push` → [`StuffzEZ/LearnToCode`](https://github.com/StuffzEZ/LearnToCode) | `2026-03-28` |
-| `📦 Push` → [`StuffzEZ/Python-CertGen`](https://github.com/StuffzEZ/Python-CertGen) | `2026-03-28` |
 
 ---
 
