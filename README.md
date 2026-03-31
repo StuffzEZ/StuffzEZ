@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Tue, 31 Mar 2026 01:48:25 GMT</sub>
+<sub>🕒 Last updated: Tue, 31 Mar 2026 07:04:49 GMT</sub>
 
 ---
 
@@ -71,8 +71,8 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-31` |
 | [**`rpi-ipad-usb`**](https://github.com/StuffzEZ/rpi-ipad-usb) | RPI iPad USB [AI-GEN TEST] | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=gnubash) | — | `2026-03-30` |
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-30` |
 | [**`LearnToCode`**](https://github.com/StuffzEZ/LearnToCode) | Learn to code in a fun way! | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-29` |
 | [**`Python-CertGen`**](https://github.com/StuffzEZ/Python-CertGen) | Generate Self Signed certificates with python | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) | — | `2026-03-28` |
 | [**`Stats`**](https://github.com/StuffzEZ/Stats) | Your own customisable stats page for your README | — | — | `2026-03-26` |
@@ -91,11 +91,11 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-31` |
 | `📦 Push` → [`StuffzEZ/rpi-ipad-usb`](https://github.com/StuffzEZ/rpi-ipad-usb) | `2026-03-30` |
 | `📦 Push` → [`StuffzEZ/rpi-ipad-usb`](https://github.com/StuffzEZ/rpi-ipad-usb) | `2026-03-30` |
 | `📦 Push` → [`StuffzEZ/rpi-ipad-usb`](https://github.com/StuffzEZ/rpi-ipad-usb) | `2026-03-30` |
 | `✨ Create` → branch in [`StuffzEZ/rpi-ipad-usb`](https://github.com/StuffzEZ/rpi-ipad-usb) | `2026-03-30` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-30` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-30` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-30` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-30` |
