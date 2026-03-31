@@ -49,10 +49,10 @@ Current project: Everything
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Repos-73-6366f1?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repos-74-6366f1?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-1-f59e0b?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-4-f97316?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-694%2B-22c55e?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-672%2B-22c55e?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/Issues-7-ef4444?style=for-the-badge)
 ![PRs](https://img.shields.io/badge/PRs-1-8b5cf6?style=for-the-badge)
 ![Orgs](https://img.shields.io/badge/Orgs-0-0ea5e9?style=for-the-badge)
@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Mon, 30 Mar 2026 18:51:31 GMT</sub>
+<sub>🕒 Last updated: Tue, 31 Mar 2026 01:48:25 GMT</sub>
 
 ---
 
@@ -71,6 +71,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
+| [**`rpi-ipad-usb`**](https://github.com/StuffzEZ/rpi-ipad-usb) | RPI iPad USB [AI-GEN TEST] | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=gnubash) | — | `2026-03-30` |
 | [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-30` |
 | [**`LearnToCode`**](https://github.com/StuffzEZ/LearnToCode) | Learn to code in a fun way! | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-29` |
 | [**`Python-CertGen`**](https://github.com/StuffzEZ/Python-CertGen) | Generate Self Signed certificates with python | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) | — | `2026-03-28` |
@@ -80,7 +81,6 @@ Current project: Everything
 | [**`docsblog`**](https://github.com/StuffzEZ/docsblog) | blog+docs | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat-square&logo=ruby) | — | `2026-01-24` |
 | [**`Tutorielle`**](https://github.com/StuffzEZ/Tutorielle) | A tutorial library | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-01-03` |
 | [**`Weylus`**](https://github.com/StuffzEZ/Weylus) | Use your tablet as graphic tablet/touch screen on your  | ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) ![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) | — | `2025-12-19` |
-| [**`FragMC-ResourcePacks`**](https://github.com/StuffzEZ/FragMC-ResourcePacks) | Resource Pack Storage for https://modrinth.com/organiza | — | — | `2025-12-12` |
 
 ---
 
@@ -91,14 +91,14 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/rpi-ipad-usb`](https://github.com/StuffzEZ/rpi-ipad-usb) | `2026-03-30` |
+| `📦 Push` → [`StuffzEZ/rpi-ipad-usb`](https://github.com/StuffzEZ/rpi-ipad-usb) | `2026-03-30` |
+| `📦 Push` → [`StuffzEZ/rpi-ipad-usb`](https://github.com/StuffzEZ/rpi-ipad-usb) | `2026-03-30` |
+| `✨ Create` → branch in [`StuffzEZ/rpi-ipad-usb`](https://github.com/StuffzEZ/rpi-ipad-usb) | `2026-03-30` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-30` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-30` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-30` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-29` |
-| `📦 Push` → [`StuffzEZ/LearnToCode`](https://github.com/StuffzEZ/LearnToCode) | `2026-03-29` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-29` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-29` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-29` |
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-03-30` |
 
 ---
 
@@ -109,12 +109,12 @@ Current project: Everything
 
 | Title | Repository | Age |
 |-------|------------|:---:|
-| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/49d-open-red?style=flat-square) |
+| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/50d-open-red?style=flat-square) |
 | [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/184d-open-red?style=flat-square) |
-| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/283d-open-red?style=flat-square) |
+| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/284d-open-red?style=flat-square) |
 | [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/535d-open-red?style=flat-square) |
 | [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/536d-open-red?style=flat-square) |
-| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/652d-open-red?style=flat-square) |
+| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/653d-open-red?style=flat-square) |
 | [Add Icon To Every Page](https://github.com/StuffzEZ/stuffzez.github.io/issues/14) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/709d-open-red?style=flat-square) |
 
 ---
