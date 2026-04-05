@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Sun, 05 Apr 2026 01:51:23 GMT</sub>
+<sub>🕒 Last updated: Sun, 05 Apr 2026 06:57:41 GMT</sub>
 
 ---
 
@@ -71,7 +71,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-04` |
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-05` |
 | [**`D8N`**](https://github.com/StuffzEZ/D8N) | Discord n8n Bot | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) | — | `2026-04-04` |
 | [**`hotspoti`**](https://github.com/StuffzEZ/hotspoti) | Share your Pi's screen over a simple WiFi hotspot. Clic | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=gnubash) | — | `2026-04-02` |
 | [**`OpenTune`**](https://github.com/StuffzEZ/OpenTune) | An open source lightweight music platform | — | — | `2026-03-31` |
@@ -91,12 +91,12 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-05` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-04` |
 | `🐛 Issue` → labeled in [`greghesp/ha-bambulab`](https://github.com/greghesp/ha-bambulab) | `2026-04-04` |
 | `🐛 Issue` → opened in [`greghesp/ha-bambulab`](https://github.com/greghesp/ha-bambulab) | `2026-04-04` |
 | `📦 Push` → [`StuffzEZ/D8N`](https://github.com/StuffzEZ/D8N) | `2026-04-04` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-04` |
-| `📦 Push` → [`StuffzEZ/D8N`](https://github.com/StuffzEZ/D8N) | `2026-04-04` |
 | `📦 Push` → [`StuffzEZ/D8N`](https://github.com/StuffzEZ/D8N) | `2026-04-04` |
 | `📦 Push` → [`StuffzEZ/D8N`](https://github.com/StuffzEZ/D8N) | `2026-04-04` |
 
