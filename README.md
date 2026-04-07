@@ -49,10 +49,10 @@ Current project: Everything
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Repos-76-6366f1?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repos-77-6366f1?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-1-f59e0b?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-4-f97316?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-639%2B-22c55e?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-644%2B-22c55e?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/Issues-7-ef4444?style=for-the-badge)
 ![PRs](https://img.shields.io/badge/PRs-1-8b5cf6?style=for-the-badge)
 ![Orgs](https://img.shields.io/badge/Orgs-0-0ea5e9?style=for-the-badge)
@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Tue, 07 Apr 2026 07:07:17 GMT</sub>
+<sub>🕒 Last updated: Tue, 07 Apr 2026 13:05:04 GMT</sub>
 
 ---
 
@@ -71,16 +71,16 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
+| [**`hotspoti`**](https://github.com/StuffzEZ/hotspoti) | Share your Pi's screen over a simple WiFi hotspot. Clic | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=gnubash) | — | `2026-04-07` |
+| [**`workplace`**](https://github.com/StuffzEZ/workplace) | — | ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=gnubash) | — | `2026-04-07` |
 | [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-07` |
 | [**`D8N`**](https://github.com/StuffzEZ/D8N) | Discord n8n Bot | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) | — | `2026-04-04` |
-| [**`hotspoti`**](https://github.com/StuffzEZ/hotspoti) | Share your Pi's screen over a simple WiFi hotspot. Clic | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=gnubash) | — | `2026-04-02` |
 | [**`OpenTune`**](https://github.com/StuffzEZ/OpenTune) | An open source lightweight music platform | — | — | `2026-03-31` |
 | [**`LearnToCode`**](https://github.com/StuffzEZ/LearnToCode) | Learn to code in a fun way! | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-03-29` |
 | [**`Python-CertGen`**](https://github.com/StuffzEZ/Python-CertGen) | Generate Self Signed certificates with python | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) | — | `2026-03-28` |
 | [**`Stats`**](https://github.com/StuffzEZ/Stats) | Your own customisable stats page for your README | — | — | `2026-03-26` |
 | [**`ScaryBaboonVolumeMod`**](https://github.com/StuffzEZ/ScaryBaboonVolumeMod) | Adjust Scary Baboon Volume with QuestPatcher | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp) | — | `2026-02-26` |
 | [**`DLLNoV`**](https://github.com/StuffzEZ/DLLNoV) | A simple way to get around virus warnings for gorilla t | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp) | — | `2026-01-28` |
-| [**`docsblog`**](https://github.com/StuffzEZ/docsblog) | blog+docs | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat-square&logo=ruby) | — | `2026-01-24` |
 
 ---
 
@@ -91,12 +91,14 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-07` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-06` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-06` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-06` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-06` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-05` |
+| `📦 Push` → [`StuffzEZ/hotspoti`](https://github.com/StuffzEZ/hotspoti) | `2026-04-07` |
+| `📦 Push` → [`StuffzEZ/hotspoti`](https://github.com/StuffzEZ/hotspoti) | `2026-04-07` |
+| `📦 Push` → [`StuffzEZ/hotspoti`](https://github.com/StuffzEZ/hotspoti) | `2026-04-07` |
+| `📦 Push` → [`StuffzEZ/hotspoti`](https://github.com/StuffzEZ/hotspoti) | `2026-04-07` |
+| `📦 Push` → [`StuffzEZ/hotspoti`](https://github.com/StuffzEZ/hotspoti) | `2026-04-07` |
+| `✨ Create` → branch in [`StuffzEZ/hotspoti`](https://github.com/StuffzEZ/hotspoti) | `2026-04-07` |
+| `📦 Push` → [`StuffzEZ/hotspoti`](https://github.com/StuffzEZ/hotspoti) | `2026-04-07` |
+| `📦 Push` → [`StuffzEZ/hotspoti`](https://github.com/StuffzEZ/hotspoti) | `2026-04-07` |
 
 ---
 
@@ -113,7 +115,7 @@ Current project: Everything
 | [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/542d-open-red?style=flat-square) |
 | [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/543d-open-red?style=flat-square) |
 | [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/660d-open-red?style=flat-square) |
-| [Add Icon To Every Page](https://github.com/StuffzEZ/stuffzez.github.io/issues/14) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/716d-open-red?style=flat-square) |
+| [Add Icon To Every Page](https://github.com/StuffzEZ/stuffzez.github.io/issues/14) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/717d-open-red?style=flat-square) |
 
 ---
 
