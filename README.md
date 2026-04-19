@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Sun, 19 Apr 2026 02:00:05 GMT</sub>
+<sub>🕒 Last updated: Sun, 19 Apr 2026 07:09:36 GMT</sub>
 
 ---
 
@@ -71,7 +71,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-18` |
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-19` |
 | [**`Isitthatcode`**](https://github.com/StuffzEZ/Isitthatcode) | — | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-08` |
 | [**`AppConnect`**](https://github.com/StuffzEZ/AppConnect) | A simple app store/app connection service that makes su | — | — | `2026-04-07` |
 | [**`hotspoti`**](https://github.com/StuffzEZ/hotspoti) | Share your Pi's screen over a simple WiFi hotspot. Clic | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=gnubash) | — | `2026-04-07` |
@@ -91,11 +91,11 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-19` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-18` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-18` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-18` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-18` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-17` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-17` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-17` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-17` |
