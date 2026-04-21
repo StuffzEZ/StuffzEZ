@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Tue, 21 Apr 2026 01:57:00 GMT</sub>
+<sub>🕒 Last updated: Tue, 21 Apr 2026 07:24:59 GMT</sub>
 
 ---
 
@@ -71,7 +71,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-20` |
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-21` |
 | [**`DiscordBotHost`**](https://github.com/StuffzEZ/DiscordBotHost) | docker discord | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) | — | `2026-04-20` |
 | [**`Isitthatcode`**](https://github.com/StuffzEZ/Isitthatcode) | — | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-08` |
 | [**`AppConnect`**](https://github.com/StuffzEZ/AppConnect) | A simple app store/app connection service that makes su | — | — | `2026-04-07` |
@@ -91,6 +91,7 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-21` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-20` |
 | `📦 Push` → [`StuffzEZ/DiscordBotHost`](https://github.com/StuffzEZ/DiscordBotHost) | `2026-04-20` |
 | `📦 Push` → [`StuffzEZ/DiscordBotHost`](https://github.com/StuffzEZ/DiscordBotHost) | `2026-04-20` |
@@ -98,7 +99,6 @@ Current project: Everything
 | `📦 Push` → [`StuffzEZ/DiscordBotHost`](https://github.com/StuffzEZ/DiscordBotHost) | `2026-04-20` |
 | `✨ Create` → branch in [`StuffzEZ/DiscordBotHost`](https://github.com/StuffzEZ/DiscordBotHost) | `2026-04-20` |
 | `⭐ Star` → [`elder-plinius/CL4R1T4S`](https://github.com/elder-plinius/CL4R1T4S) | `2026-04-20` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-20` |
 
 ---
 
