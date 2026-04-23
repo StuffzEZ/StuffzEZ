@@ -52,7 +52,7 @@ Current project: Everything
 ![Repos](https://img.shields.io/badge/Repos-80-6366f1?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-1-f59e0b?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-4-f97316?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-280%2B-22c55e?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-285%2B-22c55e?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/Issues-7-ef4444?style=for-the-badge)
 ![PRs](https://img.shields.io/badge/PRs-1-8b5cf6?style=for-the-badge)
 ![Orgs](https://img.shields.io/badge/Orgs-0-0ea5e9?style=for-the-badge)
@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Thu, 23 Apr 2026 13:09:48 GMT</sub>
+<sub>🕒 Last updated: Thu, 23 Apr 2026 18:59:00 GMT</sub>
 
 ---
 
@@ -71,8 +71,8 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
+| [**`Blog`**](https://github.com/StuffzEZ/Blog) | My Blog, Powered By DisBlog | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | ![](https://img.shields.io/github/stars/StuffzEZ/Blog?style=flat-square&color=f59e0b&label=⭐) | `2026-04-23` |
 | [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-23` |
-| [**`Blog`**](https://github.com/StuffzEZ/Blog) | My Blog, Powered By DisBlog | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | ![](https://img.shields.io/github/stars/StuffzEZ/Blog?style=flat-square&color=f59e0b&label=⭐) | `2026-04-22` |
 | [**`DiscordBotHost`**](https://github.com/StuffzEZ/DiscordBotHost) | docker discord | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) | — | `2026-04-20` |
 | [**`Isitthatcode`**](https://github.com/StuffzEZ/Isitthatcode) | — | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-08` |
 | [**`AppConnect`**](https://github.com/StuffzEZ/AppConnect) | A simple app store/app connection service that makes su | — | — | `2026-04-07` |
@@ -91,14 +91,14 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/Blog`](https://github.com/StuffzEZ/Blog) | `2026-04-23` |
+| `📦 Push` → [`StuffzEZ/Blog`](https://github.com/StuffzEZ/Blog) | `2026-04-23` |
+| `📦 Push` → [`StuffzEZ/Blog`](https://github.com/StuffzEZ/Blog) | `2026-04-23` |
+| `📦 Push` → [`StuffzEZ/Blog`](https://github.com/StuffzEZ/Blog) | `2026-04-23` |
+| `📦 Push` → [`StuffzEZ/Blog`](https://github.com/StuffzEZ/Blog) | `2026-04-23` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-23` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-23` |
-| `📦 Push` → [`StuffzEZ/Blog`](https://github.com/StuffzEZ/Blog) | `2026-04-22` |
-| `📦 Push` → [`StuffzEZ/Blog`](https://github.com/StuffzEZ/Blog) | `2026-04-22` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-22` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-22` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-22` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-22` |
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-04-23` |
 
 ---
 
@@ -110,10 +110,10 @@ Current project: Everything
 | Title | Repository | Age |
 |-------|------------|:---:|
 | [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/73d-open-red?style=flat-square) |
-| [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/207d-open-red?style=flat-square) |
-| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/307d-open-red?style=flat-square) |
-| [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/558d-open-red?style=flat-square) |
-| [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/559d-open-red?style=flat-square) |
+| [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/208d-open-red?style=flat-square) |
+| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/308d-open-red?style=flat-square) |
+| [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/559d-open-red?style=flat-square) |
+| [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/560d-open-red?style=flat-square) |
 | [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/676d-open-red?style=flat-square) |
 | [Add Icon To Every Page](https://github.com/StuffzEZ/stuffzez.github.io/issues/14) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/733d-open-red?style=flat-square) |
 
@@ -126,7 +126,7 @@ Current project: Everything
 
 | Title | Repository | Age |
 |-------|------------|:---:|
-| [Update midnightlib_version to 1.9.2](https://github.com/LOOHP/ImageFrameClient/pull/3) | [`LOOHP/ImageFrameClient`](https://github.com/LOOHP/ImageFrameClient) | `82d ago` |
+| [Update midnightlib_version to 1.9.2](https://github.com/LOOHP/ImageFrameClient/pull/3) | [`LOOHP/ImageFrameClient`](https://github.com/LOOHP/ImageFrameClient) | `83d ago` |
 
 ---
 
