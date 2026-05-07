@@ -50,7 +50,7 @@ Current project: Everything
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/Repos-82-6366f1?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars-1-f59e0b?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-2-f59e0b?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-4-f97316?style=for-the-badge)
 ![Commits](https://img.shields.io/badge/Commits-312%2B-22c55e?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/Issues-7-ef4444?style=for-the-badge)
@@ -60,7 +60,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Thu, 07 May 2026 02:10:16 GMT</sub>
+<sub>🕒 Last updated: Thu, 07 May 2026 08:22:51 GMT</sub>
 
 ---
 
@@ -71,14 +71,14 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-05-06` |
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-05-07` |
 | [**`Blog`**](https://github.com/StuffzEZ/Blog) | My Blog, Powered By DisBlog | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | ![](https://img.shields.io/github/stars/StuffzEZ/Blog?style=flat-square&color=f59e0b&label=⭐) | `2026-05-06` |
 | [**`OpenHost`**](https://github.com/StuffzEZ/OpenHost) | A self-hosted AI-coded Vercel alternative | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) | — | `2026-05-06` |
 | [**`workplace`**](https://github.com/StuffzEZ/workplace) | — | ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=gnubash) | — | `2026-04-25` |
 | [**`DiscordBotHost`**](https://github.com/StuffzEZ/DiscordBotHost) | docker discord | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) | — | `2026-04-20` |
 | [**`Isitthatcode`**](https://github.com/StuffzEZ/Isitthatcode) | — | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-04-08` |
 | [**`AppConnect`**](https://github.com/StuffzEZ/AppConnect) | A simple app store/app connection service that makes su | — | — | `2026-04-07` |
-| [**`hotspoti`**](https://github.com/StuffzEZ/hotspoti) | Share your Pi's screen over a simple WiFi hotspot. Clic | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=gnubash) | — | `2026-04-07` |
+| [**`hotspoti`**](https://github.com/StuffzEZ/hotspoti) | Share your Pi's screen over a simple WiFi hotspot. Clic | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat-square&logo=gnubash) | ![](https://img.shields.io/github/stars/StuffzEZ/hotspoti?style=flat-square&color=f59e0b&label=⭐) | `2026-04-07` |
 | [**`D8N`**](https://github.com/StuffzEZ/D8N) | Discord n8n Bot | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) | — | `2026-04-04` |
 | [**`OpenTune`**](https://github.com/StuffzEZ/OpenTune) | An open source lightweight music platform | — | — | `2026-03-31` |
 
@@ -91,9 +91,9 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-07` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-06` |
 | `📦 Push` → [`StuffzEZ/OpenHost`](https://github.com/StuffzEZ/OpenHost) | `2026-05-06` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-06` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-06` |
 
 ---
