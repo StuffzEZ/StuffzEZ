@@ -5,6 +5,49 @@
 # Hi, i'm StuffzEZ (Stuf_y)!
 A Developer That Makes A Project Bascially Every Day :)
 
+<table align="center">
+  <tr>
+
+  <td align="center" width="220">
+
+### Gravatar
+
+<img src="https://1.gravatar.com/avatar/21e8f8e8ce14f0a137c5adaca0c9b221b2c64ae1f0ef844666cfefea98a313ef?s=256&d=initials" width="64" height="64" />
+
+**Stuf_y**
+
+📍 England  
+
+<a href="https://gravatar.com/stufyy">gravatar.com/stufyy</a>
+
+</td>
+
+<td align="center" width="220">
+
+### GitLab
+
+<img src="https://1.gravatar.com/avatar/21e8f8e8ce14f0a137c5adaca0c9b221b2c64ae1f0ef844666cfefea98a313ef?s=256&d=initials" width="64" height="64" />
+
+💬 I mainly use GitHub!
+
+<a href="https://gitlab.com/StuffzEZ">gitlab.com/StuffzEZ</a>
+
+</td>
+
+<td align="center" width="220">
+
+### Contact
+
+# 📨
+
+**Contact me**
+
+<a href="https://github.com/StuffzEZ/StuffzEZ/discussions/new?category=contact-me">GitHub Discussions</a>
+
+</td>
+
+  </tr>
+</table>
 
 Hi! I am StuffzEZ.. I like computers...
 I also make games.. Sometimes!
