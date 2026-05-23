@@ -103,7 +103,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Fri, 22 May 2026 19:25:37 GMT</sub>
+<sub>🕒 Last updated: Sat, 23 May 2026 02:26:43 GMT</sub>
 
 ---
 
@@ -114,8 +114,8 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`ScoutClient-IssueTracker`**](https://github.com/StuffzEZ/ScoutClient-IssueTracker) | https://modrinth.com/modpack/scout-client | — | — | `2026-05-22` |
 | [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-05-22` |
+| [**`ScoutClient-IssueTracker`**](https://github.com/StuffzEZ/ScoutClient-IssueTracker) | https://modrinth.com/modpack/scout-client | — | — | `2026-05-22` |
 | [**`CopySite`**](https://github.com/StuffzEZ/CopySite) | Copy text | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-05-21` |
 | [**`Blog`**](https://github.com/StuffzEZ/Blog) | My Blog, Powered By DisBlog | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | ![](https://img.shields.io/github/stars/StuffzEZ/Blog?style=flat-square&color=f59e0b&label=⭐) | `2026-05-07` |
 | [**`OpenHost`**](https://github.com/StuffzEZ/OpenHost) | A self-hosted AI-coded Vercel alternative | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) | — | `2026-05-06` |
@@ -134,13 +134,13 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-22` |
 | `📦 Push` → [`StuffzEZ/ScoutClient-IssueTracker`](https://github.com/StuffzEZ/ScoutClient-IssueTracker) | `2026-05-22` |
 | `✨ Create` → branch in [`StuffzEZ/ScoutClient-IssueTracker`](https://github.com/StuffzEZ/ScoutClient-IssueTracker) | `2026-05-22` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-22` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-22` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-22` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-21` |
-| `📦 Push` → [`StuffzEZ/CopySite`](https://github.com/StuffzEZ/CopySite) | `2026-05-21` |
 | `📦 Push` → [`StuffzEZ/CopySite`](https://github.com/StuffzEZ/CopySite) | `2026-05-21` |
 
 ---
@@ -152,12 +152,12 @@ Current project: Everything
 
 | Title | Repository | Age |
 |-------|------------|:---:|
-| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/102d-open-red?style=flat-square) |
+| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/103d-open-red?style=flat-square) |
 | [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/237d-open-red?style=flat-square) |
 | [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/337d-open-red?style=flat-square) |
 | [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/588d-open-red?style=flat-square) |
 | [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/589d-open-red?style=flat-square) |
-| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/705d-open-red?style=flat-square) |
+| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/706d-open-red?style=flat-square) |
 | [Add Icon To Every Page](https://github.com/StuffzEZ/stuffzez.github.io/issues/14) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/762d-open-red?style=flat-square) |
 
 ---
