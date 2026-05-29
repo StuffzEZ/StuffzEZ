@@ -103,7 +103,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Fri, 29 May 2026 09:40:34 GMT</sub>
+<sub>🕒 Last updated: Fri, 29 May 2026 14:46:13 GMT</sub>
 
 ---
 
@@ -135,13 +135,13 @@ Current project: Everything
 | Event | Date |
 |-------|:----:|
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-29` |
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-29` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-28` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-28` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-28` |
 | `💬 Comment` → [`music-assistant/desktop-app`](https://github.com/music-assistant/desktop-app) | `2026-05-28` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-28` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-05-27` |
-| `📦 Push` → [`StuffzEZ/DistroCraft`](https://github.com/StuffzEZ/DistroCraft) | `2026-05-27` |
 
 ---
 
