@@ -103,7 +103,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Sat, 27 Jun 2026 02:32:49 GMT</sub>
+<sub>🕒 Last updated: Sat, 27 Jun 2026 08:28:18 GMT</sub>
 
 ---
 
@@ -114,7 +114,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-06-26` |
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-06-27` |
 | [**`AseBot`**](https://github.com/StuffzEZ/AseBot) | Aseprite discord conversion bot PNG>ASEPRITE | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) | — | `2026-06-20` |
 | [**`DMXJS`**](https://github.com/StuffzEZ/DMXJS) | A JavaScript Module bringing DMX Console-Style light sl | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | — | `2026-06-07` |
 | [**`Takir`**](https://github.com/StuffzEZ/Takir) | An agentic task and Skill manager | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-06-07` |
@@ -134,6 +134,7 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-06-27` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-06-26` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-06-26` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-06-26` |
@@ -141,7 +142,6 @@ Current project: Everything
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-06-25` |
 | `🍴 Fork` → [`nguyendanhda98/n8n-nodes-discord-dnd`](https://github.com/nguyendanhda98/n8n-nodes-discord-dnd) | `2026-06-25` |
 | `📦 Push` → [`StuffzEZ/freenitro-faker`](https://github.com/StuffzEZ/freenitro-faker) | `2026-06-25` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-06-25` |
 
 ---
 
