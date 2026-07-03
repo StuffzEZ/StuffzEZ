@@ -92,10 +92,10 @@ Current project: Everything
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Repos-92-6366f1?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repos-93-6366f1?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-2-f59e0b?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-4-f97316?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-311%2B-22c55e?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-318%2B-22c55e?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/Issues-7-ef4444?style=for-the-badge)
 ![PRs](https://img.shields.io/badge/PRs-1-8b5cf6?style=for-the-badge)
 ![Orgs](https://img.shields.io/badge/Orgs-0-0ea5e9?style=for-the-badge)
@@ -103,7 +103,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Fri, 03 Jul 2026 08:52:20 GMT</sub>
+<sub>🕒 Last updated: Fri, 03 Jul 2026 13:47:24 GMT</sub>
 
 ---
 
@@ -114,6 +114,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
+| [**`Dote-Bot`**](https://github.com/StuffzEZ/Dote-Bot) | Bot for Dote - Discord Meeting Note Bot | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) | — | `2026-07-03` |
 | [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-07-03` |
 | [**`OpenHost`**](https://github.com/StuffzEZ/OpenHost) | A self-hosted AI-coded Vercel alternative | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-05122A?style=flat-square&logo=dockerfile) | — | `2026-07-02` |
 | [**`Blog`**](https://github.com/StuffzEZ/Blog) | My Blog, Powered By DisBlog | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | ![](https://img.shields.io/github/stars/StuffzEZ/Blog?style=flat-square&color=f59e0b&label=⭐) | `2026-07-02` |
@@ -123,7 +124,6 @@ Current project: Everything
 | [**`NoteApp`**](https://github.com/StuffzEZ/NoteApp) | A stylish notes taking app like Apple's notes app but f | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) | — | `2026-06-05` |
 | [**`Trarou`**](https://github.com/StuffzEZ/Trarou) | Travel router | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-05-31` |
 | [**`DistroCraft`**](https://github.com/StuffzEZ/DistroCraft) | Let your players share their resources to make your ser | ![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=java) ![Batchfile](https://img.shields.io/badge/-Batchfile-05122A?style=flat-square&logo=batchfile) | — | `2026-05-27` |
-| [**`ScoutClient-IssueTracker`**](https://github.com/StuffzEZ/ScoutClient-IssueTracker) | https://modrinth.com/modpack/scout-client | — | — | `2026-05-22` |
 
 ---
 
@@ -134,14 +134,14 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-07-03` |
-| `📦 Push` → [`StuffzEZ/OpenHost`](https://github.com/StuffzEZ/OpenHost) | `2026-07-02` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-07-02` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-07-02` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-07-02` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-07-02` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-07-01` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-07-01` |
+| `📦 Push` → [`StuffzEZ/Dote-Bot`](https://github.com/StuffzEZ/Dote-Bot) | `2026-07-03` |
+| `📦 Push` → [`StuffzEZ/Dote-Bot`](https://github.com/StuffzEZ/Dote-Bot) | `2026-07-03` |
+| `📦 Push` → [`StuffzEZ/Dote-Bot`](https://github.com/StuffzEZ/Dote-Bot) | `2026-07-03` |
+| `📦 Push` → [`StuffzEZ/Dote-Bot`](https://github.com/StuffzEZ/Dote-Bot) | `2026-07-03` |
+| `📦 Push` → [`StuffzEZ/Dote-Bot`](https://github.com/StuffzEZ/Dote-Bot) | `2026-07-03` |
+| `📦 Push` → [`StuffzEZ/Dote-Bot`](https://github.com/StuffzEZ/Dote-Bot) | `2026-07-03` |
+| `📦 Push` → [`StuffzEZ/Dote-Bot`](https://github.com/StuffzEZ/Dote-Bot) | `2026-07-03` |
+| `✨ Create` → branch in [`StuffzEZ/Dote-Bot`](https://github.com/StuffzEZ/Dote-Bot) | `2026-07-03` |
 
 ---
 
