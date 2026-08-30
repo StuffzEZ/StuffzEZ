@@ -103,7 +103,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Sun, 30 Aug 2026 10:59:28 GMT</sub>
+<sub>🕒 Last updated: Sun, 30 Aug 2026 15:48:45 GMT</sub>
 
 ---
 
@@ -157,7 +157,7 @@ Current project: Everything
 | [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/336d-open-red?style=flat-square) |
 | [Can't Get ROM Metadata](https://github.com/OptionallyBlueStudios/Retbro/issues/1) | [`OptionallyBlueStudios/Retbro`](https://github.com/OptionallyBlueStudios/Retbro) | ![](https://img.shields.io/badge/364d-open-red?style=flat-square) |
 | [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/436d-open-red?style=flat-square) |
-| [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/687d-open-red?style=flat-square) |
+| [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/688d-open-red?style=flat-square) |
 | [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/688d-open-red?style=flat-square) |
 | [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/805d-open-red?style=flat-square) |
 
