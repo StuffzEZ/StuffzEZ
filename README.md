@@ -103,7 +103,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Wed, 02 Sep 2026 20:21:12 GMT</sub>
+<sub>🕒 Last updated: Thu, 03 Sep 2026 02:23:17 GMT</sub>
 
 ---
 
@@ -135,13 +135,13 @@ Current project: Everything
 | Event | Date |
 |-------|:----:|
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-09-02` |
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-09-02` |
 | `📦 Push` → [`StuffzEZ/PiPo-Ducky`](https://github.com/StuffzEZ/PiPo-Ducky) | `2026-09-01` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-09-01` |
 | `📦 Push` → [`StuffzEZ/PiPo-Ducky`](https://github.com/StuffzEZ/PiPo-Ducky) | `2026-09-01` |
 | `📦 Push` → [`StuffzEZ/PiPo-Ducky`](https://github.com/StuffzEZ/PiPo-Ducky) | `2026-09-01` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-09-01` |
 | `📦 Push` → [`StuffzEZ/PiPo-Ducky`](https://github.com/StuffzEZ/PiPo-Ducky) | `2026-09-01` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-09-01` |
 
 ---
 
@@ -159,7 +159,7 @@ Current project: Everything
 | [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/440d-open-red?style=flat-square) |
 | [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/691d-open-red?style=flat-square) |
 | [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/692d-open-red?style=flat-square) |
-| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/808d-open-red?style=flat-square) |
+| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/809d-open-red?style=flat-square) |
 
 ---
 
