@@ -103,7 +103,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Mon, 05 Oct 2026 23:32:20 GMT</sub>
+<sub>🕒 Last updated: Tue, 06 Oct 2026 04:10:13 GMT</sub>
 
 ---
 
@@ -114,8 +114,8 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`Llama-MC`**](https://github.com/StuffzEZ/Llama-MC) | Website for minecraft server | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | — | `2026-10-05` |
 | [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-10-05` |
+| [**`Llama-MC`**](https://github.com/StuffzEZ/Llama-MC) | Website for minecraft server | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | — | `2026-10-05` |
 | [**`Workfit`**](https://github.com/StuffzEZ/Workfit) | Comprehensive Workout & Fitness Platform | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-10-04` |
 | [**`Anobe`**](https://github.com/StuffzEZ/Anobe) | Say no to Adobe | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-09-09` |
 | [**`BoxMap`**](https://github.com/StuffzEZ/BoxMap) | [prototype ai] Map boxes | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-08-13` |
