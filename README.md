@@ -103,7 +103,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Sat, 10 Oct 2026 20:58:04 GMT</sub>
+<sub>🕒 Last updated: Sun, 11 Oct 2026 03:14:33 GMT</sub>
 
 ---
 
@@ -159,7 +159,7 @@ Current project: Everything
 | [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/478d-open-red?style=flat-square) |
 | [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/729d-open-red?style=flat-square) |
 | [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/730d-open-red?style=flat-square) |
-| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/846d-open-red?style=flat-square) |
+| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/847d-open-red?style=flat-square) |
 
 ---
 
