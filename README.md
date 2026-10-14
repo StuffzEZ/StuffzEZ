@@ -103,7 +103,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Wed, 14 Oct 2026 02:58:38 GMT</sub>
+<sub>🕒 Last updated: Wed, 14 Oct 2026 10:57:22 GMT</sub>
 
 ---
 
@@ -114,7 +114,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-10-13` |
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-10-14` |
 | [**`Llama-MC`**](https://github.com/StuffzEZ/Llama-MC) | Website for minecraft server | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | — | `2026-10-05` |
 | [**`Workfit`**](https://github.com/StuffzEZ/Workfit) | Comprehensive Workout & Fitness Platform | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-10-04` |
 | [**`Anobe`**](https://github.com/StuffzEZ/Anobe) | Say no to Adobe | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-09-09` |
@@ -135,13 +135,13 @@ Current project: Everything
 | Event | Date |
 |-------|:----:|
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-13` |
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-14` |
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-13` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-12` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-11` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-12` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-11` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-11` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-11` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-10` |
 
 ---
 
@@ -155,7 +155,7 @@ Current project: Everything
 | [backend.html: Mixed Content + CORS / Private Network Ac](https://github.com/StuffzEZ/Integer/issues/1) | [`StuffzEZ/Integer`](https://github.com/StuffzEZ/Integer) | ![](https://img.shields.io/badge/66d-open-red?style=flat-square) |
 | [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/247d-open-red?style=flat-square) |
 | [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/381d-open-red?style=flat-square) |
-| [Can't Get ROM Metadata](https://github.com/OptionallyBlueStudios/Retbro/issues/1) | [`OptionallyBlueStudios/Retbro`](https://github.com/OptionallyBlueStudios/Retbro) | ![](https://img.shields.io/badge/408d-open-red?style=flat-square) |
+| [Can't Get ROM Metadata](https://github.com/OptionallyBlueStudios/Retbro/issues/1) | [`OptionallyBlueStudios/Retbro`](https://github.com/OptionallyBlueStudios/Retbro) | ![](https://img.shields.io/badge/409d-open-red?style=flat-square) |
 | [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/481d-open-red?style=flat-square) |
 | [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/732d-open-red?style=flat-square) |
 | [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/733d-open-red?style=flat-square) |
