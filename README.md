@@ -93,7 +93,7 @@ Current project: Everything
 ![Repos](https://img.shields.io/badge/Repos-105-6366f1?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-2-f59e0b?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-4-f97316?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-307%2B-22c55e?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-308%2B-22c55e?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/Issues-9-ef4444?style=for-the-badge)
 ![PRs](https://img.shields.io/badge/PRs-1-8b5cf6?style=for-the-badge)
 ![Orgs](https://img.shields.io/badge/Orgs-0-0ea5e9?style=for-the-badge)
@@ -101,7 +101,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Sat, 17 Oct 2026 14:45:20 GMT</sub>
+<sub>🕒 Last updated: Sat, 17 Oct 2026 18:24:14 GMT</sub>
 
 ---
 
@@ -132,13 +132,13 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `💬 Comment` → [`microsoft/vscode`](https://github.com/microsoft/vscode) | `2026-10-17` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-15` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-16` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-16` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-15` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-14` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-14` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-15` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-15` |
 
 ---
@@ -155,7 +155,7 @@ Current project: Everything
 | [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/384d-open-red?style=flat-square) |
 | [Can't Get ROM Metadata](https://github.com/OptionallyBlueStudios/Retbro/issues/1) | [`OptionallyBlueStudios/Retbro`](https://github.com/OptionallyBlueStudios/Retbro) | ![](https://img.shields.io/badge/412d-open-red?style=flat-square) |
 | [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/484d-open-red?style=flat-square) |
-| [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/735d-open-red?style=flat-square) |
+| [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/736d-open-red?style=flat-square) |
 | [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/736d-open-red?style=flat-square) |
 | [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/853d-open-red?style=flat-square) |
 
