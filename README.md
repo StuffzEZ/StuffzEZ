@@ -51,8 +51,6 @@ A Developer That Makes A Project Bascially Every Day :)
 
 Hi! I am StuffzEZ.. I like computers...
 I also make games.. Sometimes!
-<br><br><!-- patapim -->
-Pls dont judge me if you see any of my code is AI- im trying to fix that right now; quite a bit of the time I really want to make something that does something but I don't have the time!!
 
 <!-- GITHUB_HEADER:START -->
 <div align="center">
