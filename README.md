@@ -101,7 +101,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Sun, 18 Oct 2026 10:10:15 GMT</sub>
+<sub>🕒 Last updated: Sun, 18 Oct 2026 15:10:20 GMT</sub>
 
 ---
 
@@ -132,14 +132,14 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-17` |
+| `💬 Comment` → [`BottlecapDave/HomeAssistant-OctopusEnergy`](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) | `2026-10-18` |
+| `🐛 Issue` → labeled in [`BottlecapDave/HomeAssistant-OctopusEnergy`](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) | `2026-10-18` |
+| `🐛 Issue` → assigned in [`BottlecapDave/HomeAssistant-OctopusEnergy`](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) | `2026-10-18` |
+| `🐛 Issue` → opened in [`BottlecapDave/HomeAssistant-OctopusEnergy`](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) | `2026-10-18` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-18` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-16` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-17` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-17` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-17` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-16` |
-| `💬 Comment` → [`microsoft/vscode`](https://github.com/microsoft/vscode) | `2026-10-17` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-15` |
 
 ---
 
@@ -168,7 +168,7 @@ Current project: Everything
 
 | Title | Repository | Age |
 |-------|------------|:---:|
-| [ci: improve PR checks and add desktop builds](https://github.com/StuffzEZ/Workfit/pull/5) | [`StuffzEZ/Workfit`](https://github.com/StuffzEZ/Workfit) | `13d ago` |
+| [ci: improve PR checks and add desktop builds](https://github.com/StuffzEZ/Workfit/pull/5) | [`StuffzEZ/Workfit`](https://github.com/StuffzEZ/Workfit) | `14d ago` |
 
 ---
 
