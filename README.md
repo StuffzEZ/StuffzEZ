@@ -93,15 +93,15 @@ Current project: Everything
 ![Repos](https://img.shields.io/badge/Repos-107-6366f1?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-2-f59e0b?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-4-f97316?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-714%2B-22c55e?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues-9-ef4444?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-723%2B-22c55e?style=for-the-badge)
+![Issues](https://img.shields.io/badge/Issues-11-ef4444?style=for-the-badge)
 ![PRs](https://img.shields.io/badge/PRs-1-8b5cf6?style=for-the-badge)
 ![Orgs](https://img.shields.io/badge/Orgs-0-0ea5e9?style=for-the-badge)
 ![Followers](https://img.shields.io/badge/Followers-4-ec4899?style=for-the-badge)
 
 </div>
 
-<sub>🕒 Last updated: Fri, 23 Oct 2026 16:12:35 GMT</sub>
+<sub>🕒 Last updated: Fri, 23 Oct 2026 20:50:46 GMT</sub>
 
 ---
 
@@ -112,9 +112,9 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
+| [**`stuffzez.github.io`**](https://github.com/StuffzEZ/stuffzez.github.io) | My Website, Made By Me, Updated By Me. With Collaborato | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-10-23` |
 | [**`freeserver`**](https://github.com/StuffzEZ/freeserver) | https://stuffzez.github.io/sfs/ | — | — | `2026-10-23` |
 | [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-10-23` |
-| [**`stuffzez.github.io`**](https://github.com/StuffzEZ/stuffzez.github.io) | My Website, Made By Me, Updated By Me. With Collaborato | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-10-22` |
 | [**`Llama-MC`**](https://github.com/StuffzEZ/Llama-MC) | Website for minecraft server | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | — | `2026-10-05` |
 | [**`Workfit`**](https://github.com/StuffzEZ/Workfit) | Comprehensive Workout & Fitness Platform | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-10-04` |
 | [**`Anobe`**](https://github.com/StuffzEZ/Anobe) | Say no to Adobe | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-09-09` |
@@ -132,14 +132,14 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-23` |
-| `📦 Push` → [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-22` |
-| `📦 Push` → [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-22` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-23` |
-| `📦 Push` → [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | `2026-10-22` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-22` |
-| `📦 Push` → [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-22` |
-| `📦 Push` → [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-22` |
+| `🐛 Issue` → opened in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `🐛 Issue` → opened in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `📦 Push` → [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `🐛 Issue` → labeled in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `🐛 Issue` → assigned in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `🐛 Issue` → labeled in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `🐛 Issue` → labeled in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `🐛 Issue` → labeled in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
 
 ---
 
@@ -150,14 +150,14 @@ Current project: Everything
 
 | Title | Repository | Age |
 |-------|------------|:---:|
-| [backend.html: Mixed Content + CORS / Private Network Ac](https://github.com/StuffzEZ/Integer/issues/1) | [`StuffzEZ/Integer`](https://github.com/StuffzEZ/Integer) | ![](https://img.shields.io/badge/75d-open-red?style=flat-square) |
-| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/256d-open-red?style=flat-square) |
-| [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/390d-open-red?style=flat-square) |
+| [[GenB] Keys not savable due to authentik auth](https://github.com/StuffzEZ/freeserver/issues/3) | [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | ![](https://img.shields.io/badge/0d-open-brightgreen?style=flat-square) |
+| [[GenB] Free AI keys are removed upon restart](https://github.com/StuffzEZ/freeserver/issues/2) | [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | ![](https://img.shields.io/badge/0d-open-brightgreen?style=flat-square) |
+| [backend.html: Mixed Content + CORS / Private Network Ac](https://github.com/StuffzEZ/Integer/issues/1) | [`StuffzEZ/Integer`](https://github.com/StuffzEZ/Integer) | ![](https://img.shields.io/badge/76d-open-red?style=flat-square) |
+| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/257d-open-red?style=flat-square) |
+| [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/391d-open-red?style=flat-square) |
 | [Can't Get ROM Metadata](https://github.com/OptionallyBlueStudios/Retbro/issues/1) | [`OptionallyBlueStudios/Retbro`](https://github.com/OptionallyBlueStudios/Retbro) | ![](https://img.shields.io/badge/418d-open-red?style=flat-square) |
-| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/490d-open-red?style=flat-square) |
+| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/491d-open-red?style=flat-square) |
 | [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/742d-open-red?style=flat-square) |
-| [Images Not On l1001.html](https://github.com/StuffzEZ/Coding/issues/1) | [`StuffzEZ/Coding`](https://github.com/StuffzEZ/Coding) | ![](https://img.shields.io/badge/742d-open-red?style=flat-square) |
-| [Fix 404 bugs and make more pages!](https://github.com/StuffzEZ/stuffzez.github.io/issues/16) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/859d-open-red?style=flat-square) |
 
 ---
 
