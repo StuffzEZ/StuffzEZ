@@ -101,7 +101,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Fri, 23 Oct 2026 20:50:46 GMT</sub>
+<sub>🕒 Last updated: Sat, 24 Oct 2026 02:45:56 GMT</sub>
 
 ---
 
@@ -112,9 +112,9 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-10-23` |
 | [**`stuffzez.github.io`**](https://github.com/StuffzEZ/stuffzez.github.io) | My Website, Made By Me, Updated By Me. With Collaborato | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-10-23` |
 | [**`freeserver`**](https://github.com/StuffzEZ/freeserver) | https://stuffzez.github.io/sfs/ | — | — | `2026-10-23` |
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-10-23` |
 | [**`Llama-MC`**](https://github.com/StuffzEZ/Llama-MC) | Website for minecraft server | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | — | `2026-10-05` |
 | [**`Workfit`**](https://github.com/StuffzEZ/Workfit) | Comprehensive Workout & Fitness Platform | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-10-04` |
 | [**`Anobe`**](https://github.com/StuffzEZ/Anobe) | Say no to Adobe | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-09-09` |
@@ -132,14 +132,14 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
-| `🐛 Issue` → opened in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
-| `🐛 Issue` → opened in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `📦 Push` → [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | `2026-10-23` |
 | `📦 Push` → [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
-| `🐛 Issue` → labeled in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
-| `🐛 Issue` → assigned in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
-| `🐛 Issue` → labeled in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
-| `🐛 Issue` → labeled in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
-| `🐛 Issue` → labeled in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `📦 Push` → [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | `2026-10-23` |
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-23` |
+| `📦 Push` → [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `📦 Push` → [`StuffzEZ/freellmapi`](https://github.com/StuffzEZ/freellmapi) | `2026-10-23` |
+| `🐛 Issue` → opened in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
+| `🐛 Issue` → opened in [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | `2026-10-23` |
 
 ---
 
