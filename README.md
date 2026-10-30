@@ -101,7 +101,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Fri, 30 Oct 2026 03:49:50 GMT</sub>
+<sub>🕒 Last updated: Fri, 30 Oct 2026 11:56:05 GMT</sub>
 
 ---
 
@@ -112,7 +112,7 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-10-29` |
+| [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-10-30` |
 | [**`stuffzez.github.io`**](https://github.com/StuffzEZ/stuffzez.github.io) | My Website, Made By Me, Updated By Me. With Collaborato | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) | — | `2026-10-23` |
 | [**`freeserver`**](https://github.com/StuffzEZ/freeserver) | https://stuffzez.github.io/sfs/ | — | — | `2026-10-23` |
 | [**`Llama-MC`**](https://github.com/StuffzEZ/Llama-MC) | Website for minecraft server | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | — | `2026-10-05` |
@@ -132,6 +132,7 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-29` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-28` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-28` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-27` |
@@ -139,7 +140,6 @@ Current project: Everything
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-27` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-27` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-28` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-10-27` |
 
 ---
 
@@ -155,7 +155,7 @@ Current project: Everything
 | [backend.html: Mixed Content + CORS / Private Network Ac](https://github.com/StuffzEZ/Integer/issues/1) | [`StuffzEZ/Integer`](https://github.com/StuffzEZ/Integer) | ![](https://img.shields.io/badge/82d-open-red?style=flat-square) |
 | [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/263d-open-red?style=flat-square) |
 | [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/397d-open-red?style=flat-square) |
-| [Can't Get ROM Metadata](https://github.com/OptionallyBlueStudios/Retbro/issues/1) | [`OptionallyBlueStudios/Retbro`](https://github.com/OptionallyBlueStudios/Retbro) | ![](https://img.shields.io/badge/424d-open-red?style=flat-square) |
+| [Can't Get ROM Metadata](https://github.com/OptionallyBlueStudios/Retbro/issues/1) | [`OptionallyBlueStudios/Retbro`](https://github.com/OptionallyBlueStudios/Retbro) | ![](https://img.shields.io/badge/425d-open-red?style=flat-square) |
 | [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/497d-open-red?style=flat-square) |
 | [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/748d-open-red?style=flat-square) |
 
@@ -168,7 +168,7 @@ Current project: Everything
 
 | Title | Repository | Age |
 |-------|------------|:---:|
-| [ci: improve PR checks and add desktop builds](https://github.com/StuffzEZ/Workfit/pull/5) | [`StuffzEZ/Workfit`](https://github.com/StuffzEZ/Workfit) | `25d ago` |
+| [ci: improve PR checks and add desktop builds](https://github.com/StuffzEZ/Workfit/pull/5) | [`StuffzEZ/Workfit`](https://github.com/StuffzEZ/Workfit) | `26d ago` |
 
 ---
 
