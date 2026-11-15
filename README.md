@@ -101,7 +101,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Sun, 15 Nov 2026 13:15:14 GMT</sub>
+<sub>🕒 Last updated: Sun, 15 Nov 2026 22:20:24 GMT</sub>
 
 ---
 
@@ -132,14 +132,14 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `💬 Comment` → [`FragMC/.github`](https://github.com/FragMC/.github) | `2026-11-15` |
+| `🐛 Issue` → closed in [`FragMC/.github`](https://github.com/FragMC/.github) | `2026-11-15` |
+| `🐛 Issue` → labeled in [`FragMC/.github`](https://github.com/FragMC/.github) | `2026-11-15` |
+| `🐛 Issue` → labeled in [`FragMC/.github`](https://github.com/FragMC/.github) | `2026-11-15` |
+| `🐛 Issue` → opened in [`FragMC/.github`](https://github.com/FragMC/.github) | `2026-11-15` |
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-14` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-14` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-13` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-13` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-12` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-12` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-11` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-12` |
-| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-11` |
 
 ---
 
@@ -150,14 +150,14 @@ Current project: Everything
 
 | Title | Repository | Age |
 |-------|------------|:---:|
-| [[GenB] Keys not savable due to authentik auth](https://github.com/StuffzEZ/freeserver/issues/3) | [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | ![](https://img.shields.io/badge/22d-open-yellow?style=flat-square) |
-| [[GenB] Free AI keys are removed upon restart](https://github.com/StuffzEZ/freeserver/issues/2) | [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | ![](https://img.shields.io/badge/22d-open-yellow?style=flat-square) |
-| [backend.html: Mixed Content + CORS / Private Network Ac](https://github.com/StuffzEZ/Integer/issues/1) | [`StuffzEZ/Integer`](https://github.com/StuffzEZ/Integer) | ![](https://img.shields.io/badge/98d-open-red?style=flat-square) |
-| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/279d-open-red?style=flat-square) |
-| [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/413d-open-red?style=flat-square) |
+| [[GenB] Keys not savable due to authentik auth](https://github.com/StuffzEZ/freeserver/issues/3) | [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | ![](https://img.shields.io/badge/23d-open-yellow?style=flat-square) |
+| [[GenB] Free AI keys are removed upon restart](https://github.com/StuffzEZ/freeserver/issues/2) | [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | ![](https://img.shields.io/badge/23d-open-yellow?style=flat-square) |
+| [backend.html: Mixed Content + CORS / Private Network Ac](https://github.com/StuffzEZ/Integer/issues/1) | [`StuffzEZ/Integer`](https://github.com/StuffzEZ/Integer) | ![](https://img.shields.io/badge/99d-open-red?style=flat-square) |
+| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/280d-open-red?style=flat-square) |
+| [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/414d-open-red?style=flat-square) |
 | [Can't Get ROM Metadata](https://github.com/OptionallyBlueStudios/Retbro/issues/1) | [`OptionallyBlueStudios/Retbro`](https://github.com/OptionallyBlueStudios/Retbro) | ![](https://img.shields.io/badge/441d-open-red?style=flat-square) |
-| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/513d-open-red?style=flat-square) |
-| [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/764d-open-red?style=flat-square) |
+| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/514d-open-red?style=flat-square) |
+| [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/765d-open-red?style=flat-square) |
 
 ---
 
