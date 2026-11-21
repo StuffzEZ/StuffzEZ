@@ -101,7 +101,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Fri, 20 Nov 2026 23:31:44 GMT</sub>
+<sub>🕒 Last updated: Sat, 21 Nov 2026 05:01:12 GMT</sub>
 
 ---
 
@@ -112,8 +112,8 @@ Current project: Everything
 
 | Repository | Description | Stack | Stars | Last Push |
 |------------|-------------|:-----:|:-----:|:---------:|
-| [**`stuffzez.github.io`**](https://github.com/StuffzEZ/stuffzez.github.io) | My Website, Made By Me, Updated By Me. With Collaborato | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) | — | `2026-11-20` |
 | [**`StuffzEZ`**](https://github.com/StuffzEZ/StuffzEZ) | Config files for my GitHub profile. | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) | — | `2026-11-20` |
+| [**`stuffzez.github.io`**](https://github.com/StuffzEZ/stuffzez.github.io) | My Website, Made By Me, Updated By Me. With Collaborato | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python) | — | `2026-11-20` |
 | [**`professor.ai`**](https://github.com/StuffzEZ/professor.ai) | AI learning platform | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | — | `2026-11-19` |
 | [**`freeserver`**](https://github.com/StuffzEZ/freeserver) | https://stuffzez.github.io/sfs/ | — | — | `2026-10-23` |
 | [**`Llama-MC`**](https://github.com/StuffzEZ/Llama-MC) | Website for minecraft server | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript) | — | `2026-10-05` |
@@ -132,6 +132,7 @@ Current project: Everything
 
 | Event | Date |
 |-------|:----:|
+| `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-19` |
 | `📦 Push` → [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | `2026-11-20` |
 | `📦 Push` → [`StuffzEZ/professor.ai`](https://github.com/StuffzEZ/professor.ai) | `2026-11-18` |
 | `📦 Push` → [`StuffzEZ/professor.ai`](https://github.com/StuffzEZ/professor.ai) | `2026-11-19` |
@@ -139,7 +140,6 @@ Current project: Everything
 | `🍴 Fork` → [`QuantumNous/new-api`](https://github.com/QuantumNous/new-api) | `2026-11-19` |
 | `📦 Push` → [`StuffzEZ/professor.ai`](https://github.com/StuffzEZ/professor.ai) | `2026-11-18` |
 | `📦 Push` → [`StuffzEZ/StuffzEZ`](https://github.com/StuffzEZ/StuffzEZ) | `2026-11-18` |
-| `📦 Push` → [`StuffzEZ/professor.ai`](https://github.com/StuffzEZ/professor.ai) | `2026-11-17` |
 
 ---
 
