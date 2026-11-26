@@ -101,7 +101,7 @@ Current project: Everything
 
 </div>
 
-<sub>🕒 Last updated: Wed, 25 Nov 2026 16:35:28 GMT</sub>
+<sub>🕒 Last updated: Thu, 26 Nov 2026 01:23:25 GMT</sub>
 
 ---
 
@@ -150,13 +150,13 @@ Current project: Everything
 
 | Title | Repository | Age |
 |-------|------------|:---:|
-| [[GenB] Keys not savable due to authentik auth](https://github.com/StuffzEZ/freeserver/issues/3) | [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | ![](https://img.shields.io/badge/32d-open-red?style=flat-square) |
-| [[GenB] Free AI keys are removed upon restart](https://github.com/StuffzEZ/freeserver/issues/2) | [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | ![](https://img.shields.io/badge/32d-open-red?style=flat-square) |
-| [backend.html: Mixed Content + CORS / Private Network Ac](https://github.com/StuffzEZ/Integer/issues/1) | [`StuffzEZ/Integer`](https://github.com/StuffzEZ/Integer) | ![](https://img.shields.io/badge/108d-open-red?style=flat-square) |
-| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/289d-open-red?style=flat-square) |
-| [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/423d-open-red?style=flat-square) |
+| [[GenB] Keys not savable due to authentik auth](https://github.com/StuffzEZ/freeserver/issues/3) | [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | ![](https://img.shields.io/badge/33d-open-red?style=flat-square) |
+| [[GenB] Free AI keys are removed upon restart](https://github.com/StuffzEZ/freeserver/issues/2) | [`StuffzEZ/freeserver`](https://github.com/StuffzEZ/freeserver) | ![](https://img.shields.io/badge/33d-open-red?style=flat-square) |
+| [backend.html: Mixed Content + CORS / Private Network Ac](https://github.com/StuffzEZ/Integer/issues/1) | [`StuffzEZ/Integer`](https://github.com/StuffzEZ/Integer) | ![](https://img.shields.io/badge/109d-open-red?style=flat-square) |
+| [Add sparx reader hack](https://github.com/StuffzEZ/LearnWork/issues/1) | [`StuffzEZ/LearnWork`](https://github.com/StuffzEZ/LearnWork) | ![](https://img.shields.io/badge/290d-open-red?style=flat-square) |
+| [\| In title causes errors](https://github.com/StuffzEZ/DisBlog/issues/11) | [`StuffzEZ/DisBlog`](https://github.com/StuffzEZ/DisBlog) | ![](https://img.shields.io/badge/424d-open-red?style=flat-square) |
 | [Can't Get ROM Metadata](https://github.com/OptionallyBlueStudios/Retbro/issues/1) | [`OptionallyBlueStudios/Retbro`](https://github.com/OptionallyBlueStudios/Retbro) | ![](https://img.shields.io/badge/451d-open-red?style=flat-square) |
-| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/523d-open-red?style=flat-square) |
+| [Switch To jsDelivr CDN](https://github.com/StuffzEZ/stuffzez.github.io/issues/24) | [`StuffzEZ/stuffzez.github.io`](https://github.com/StuffzEZ/stuffzez.github.io) | ![](https://img.shields.io/badge/524d-open-red?style=flat-square) |
 | [// Instead Of / In URL](https://github.com/StuffzEZ/testBrowser/issues/1) | [`StuffzEZ/testBrowser`](https://github.com/StuffzEZ/testBrowser) | ![](https://img.shields.io/badge/775d-open-red?style=flat-square) |
 
 ---
